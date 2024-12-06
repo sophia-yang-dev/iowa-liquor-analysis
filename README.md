@@ -25,4 +25,9 @@ To perform geospatial analysis, we implemented the following tasks:
 * Summarize Transactions, Sales, and Consumption Data by Store
 * Analyze Correlation between Store Performance and Nearby POIs
 
-[See More Details](Regional%20Analysis/Topic2.md#methodology)
+[See More Details](Regional%20Analysis/Topic2.md#methodology).  
+
+# Problems
+## Integrate big data analysis with non-big data tools
+
+[See More Details](Regional%20Analysis/Problems.md)

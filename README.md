@@ -14,7 +14,7 @@ To perform regional analysis, we implemented the following tasks:
 * Combine with US Census Population Data
 * Plot Findings on Iowa State Map
 
-[See More Details](Topic1.md#methodology)
+[See More Details](Topic1.md#Methodology)
 
 ### Topic 2: What Geospatial Factors Might Influence Liquor Sales
 Some liquor stores have higher sales, some lower. We wonder, could there be any spatial factors affecting the store performance? For example, if a store is surrounded by bars or restaurants, maybe they will purchase beverages from the liquor store quite often. Or, if there is a stadium nearby, people might buy more drinks when there are sports events. In order to study these geospatial factors, we again retrieve data from OpenStreetMap, and explore the correlation between these factors and store sales performances. From the County-level analysis, we have already known that Polk County has the most number of liquor stores, and also best performing stores on average. So Polk County could be a good example for us to explore.
@@ -25,4 +25,4 @@ To perform geospatial analysis, we implemented the following tasks:
 * Summarize Transactions, Sales, and Consumption Data by Store
 * Analyze Correlation between Store Performance and Nearby POIs
 
-[See More Details](Topic2.md#methodology)
+[See More Details](Topic2.md#Methodology)

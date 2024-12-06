@@ -11,5 +11,10 @@ So our strategy is quite straightforward, we use Spark to “shrink” the data 
 This strategy can be reflected in the implementations of [POI analysis](Topic2.md#count-number-of-pois-within-2km-for-each-liquor-store) and [filling missing location data](../Data_Processing_Cleaning/DataCleaning_README.md#add-locations-from-openstreetmap-osm).
 
 ## Messy data from OpenStreetMap
+OpenStreetMap (OSM) is a collaborative, open-source mapping platform where anyone can contribute and use detailed geographic data freely for various applications. It is good in its rich contents and API services, and it is totally free. However, because anyone can annotate, the data on OSM is sometimes messy. Here are some situations we encountered and how we dealt with it:
+### When searching locations based on store name or store address.
+In the [data cleaning process](), we try to search for missing locations (longitude & latitude coordinates) using geopy from OSM data. By using only the store name, we got extremely vague results, especially for chain stores that share the same name (with different numbers appending the store name)  in the same city. Because not all stores are annotated on OSM, so OSM will just return a closest match it got, probably the same name but in a completely different city or even different state (when we don’t limit to Iowa). We cannot trust these data, so that was why we simply dropped Step 3 in the data cleaning process.
+Searching locations based on store address is much better, especially when we add the city and state info to limit its searching range. However, sometimes the matched result is not the building (the liquor store), but a highway, a line. In this case, the geocoding won’t return valid coordinates.
+We checked the Google Map, the store names on Google Map are much more accurate than OSM, and giving addresses will return very accurate coordinates. Besides the geocoding service by Google Map allows batch querying, which will greatly speed up the searching speed. The only problem is Google Map isn’t free, and that was why we did not use it.
 
 ## Tips on normalizing data for comparison

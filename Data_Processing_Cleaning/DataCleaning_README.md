@@ -56,19 +56,21 @@ The .describe() method was used to generate statistical summaries for numerical 
 The first five rows of the cleaned data were displayed using .show() to verify the format and content of the fields.
 
 ## Add Locations from OpenStreetMap (OSM)
-- There is a column in our dataset called “Store Location” which gives us the longitude and latitude coordinates of the liquor store in each record. This information could be useful if we want to perform regional and geospatial analysis. However, not all records have this information. We have three observations on the missing data:
-  - Observation 1: A same store might have location info from some records, but missing in other records. For these records, we can simply fill in the missing data with existing dataset by a few Spark dataframe operations.
-  - Observation 2: Some stores do not have the location coordinates, but have other location information such as Address and City. For these stores, we might use the address and search the longitude and latitude coordinates from external sources such as the OpenStreetMap.
-  - Observation 3: The other stores have no location info at all, no street address, no city. All we have is the name of the store. For these stores, hopefully we can find some information from external sources. If not, we would just simply drop them.
+There is a column in our dataset called “Store Location” which gives us the longitude and latitude coordinates of the liquor store in each record. This information could be useful if we want to perform regional and geospatial analysis. However, not all records have this information. We have three observations on the missing data:
+
+* **Observation 1:** A same store might have location info from some records, but missing in other records. For these records, we can simply fill in the missing data with existing dataset by a few Spark dataframe operations.
+* **Observation 2:** Some stores do not have the location coordinates, but have other location information such as Address and City. For these stores, we might use the address and search the longitude and latitude coordinates from external sources such as the [OpenStreetMap](https://www.openstreetmap.org/#map=19/41.586263/-93.627269).
+* **Observation 3:** The other stores have no location info at all, no street address, no city. All we have is the name of the store. For these stores, hopefully we can find some information from external sources. If not, we would just simply drop them.
+
 With these observations, we implemented our filling location data algorithm in two steps.
 
-- Step 1: Fill Location Data from Existing Dataset
+### Step 1: Fill Location Data from Existing Dataset
 We selected a table of unique stores with name and location columns, and filtered out the stores of which the locations are empty. This table serves as a reference of existing stores and their locations. We then join back this reference table with the original dataset, and fill in the location info from the reference table whenever it is empty. This step successfully filled in 487,380 records.
 
-- Step 2: Fill Location Data from OSM with Address and City Info
-We filtered the records with missing locations and grouped by store name, and found out that there are altogether 249 stores not having location coordinates. We used the python library geopy to access OpenStreetMap’s geocoding service through its Nominatim API. To increase the geocoding accuracy, we used the query that concatenated the address with city information and a string of ‘Iowa, USA’. After retrieving the location coordinates, we saved them in the correct format to a reference table as described in Step 1, and joined back to the original dataset to update the location column. This step successfully filled in 1,381,871 records.
+### Step 2: Fill Location Data from OSM with Address and City Info
+We filtered the records with missing locations and grouped by store name, and found out that there are altogether 249 stores not having location coordinates. We used the python library [geopy](https://geopy.readthedocs.io/en/stable/) to access OpenStreetMap’s geocoding service through its [Nominatim API](https://geopy.readthedocs.io/en/stable/#nominatim). To increase the geocoding accuracy, we used the query that concatenated the address with city information and a string of ‘Iowa, USA’. After retrieving the location coordinates, we saved them in the correct format to a reference table as described in Step 1, and joined back to the original dataset to update the location column. This step successfully filled in 1,381,871 records.
 
-- Step 3 (Abandoned): Fill Location Data from OSM with only Store Name
+### Step 3 (Abandoned): Fill Location Data from OSM with only Store Name
 We also tried to search the address, city, and location info via geopy by only querying the store name in Iowa. However, the retrieved data is too noisy to use, so we abandoned this step and just dropped all records without locations after Step 1 and 2.
 
 ## Summary

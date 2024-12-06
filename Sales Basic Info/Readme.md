@@ -36,7 +36,9 @@ Most analyses were completed using Spark's DataFrame API because the large data 
 
 ### Popularity Analysis
 
-![](./Graphs/sales_analysis.png)
+<div style="text-align: center;">
+    <img src="./Graphs/sales_analysis.png" alt="Image 1" width="700"/>
+</div>
 
 From the graphs, we can see:
 
@@ -47,8 +49,9 @@ From the graphs, we can see:
 
 ### Continuous Variables (Cost, Retail Price)/Discrete Variables (Pack, Bottle Volume) Distribution Analysis
 
-![](./Graphs/price_volume_distribution.png)
-
+<div style="text-align: center;">
+    <img src="./Graphs/price_volume_distribution.png" alt="Image 1" width="700"/>
+</div>
 From the graphs, we can see:
 
 - Liquor cost and retail price don't perfectly follow normal distribution, showing right-skewed distribution, with retail price distribution being broader and more dispersed. The cost distribution peaks at $7.3, while retail price distribution peaks at $11.
@@ -56,9 +59,12 @@ From the graphs, we can see:
 - Most liquor volumes are below 1000ml, and Pack Sizes are mostly below 12 bottles. However, 48-bottle packs show higher sales than 24-bottle packs, possibly due to better transport and storage efficiency, and price advantages.
 
 ### Detailed Analysis
+<div style="display: flex; justify-content: space-around;">
+  <img src="./Graphs/liquor_trends.png" alt="Image 1" width="500"/>
+  <img src="./Graphs/pack_trends.png" alt="Image 2" width="500"/>
+  <img src="./Graphs/city_distribution.png" alt="Image 3" width="800"/>
+</div>
 
-![](./Graphs/liquor_trends.png)![](./Graphs/pack_trends.png)
-![](./Graphs/city_distribution.png)
 
 From the graphs, we can see:
 
@@ -69,7 +75,11 @@ From the graphs, we can see:
 
 ### Correlation and Feature Importance Analysis
 
-![](./Graphs/Liquor_Sales_Correlation_Heatmap_2018.png)![](./Graphs/Liquor_Sales_Correlation_Heatmap_2020.png)![](./Graphs/Liquor_Sales_Correlation_Heatmap_2022.png)
+<div style="display: flex; justify-content: space-around;">
+  <img src="./Graphs/Liquor_Sales_Correlation_Heatmap_2018.png" alt="Image 1" width="330"/>
+  <img src="./Graphs/Liquor_Sales_Correlation_Heatmap_2020.png" alt="Image 2" width="330"/>
+  <img src="./Graphs/Liquor_Sales_Correlation_Heatmap_2022.png" alt="Image 3" width="330"/>
+</div>
 
 Based on correlation heatmaps from 2018, 2020, and 2022:
 
@@ -77,7 +87,12 @@ Based on correlation heatmaps from 2018, 2020, and 2022:
 - Pack Size Impact: Pack negatively correlates with Bottle Volume, coefficient around -0.5, larger Pack Size means smaller bottle volume. Pack Size also negatively correlates with State Bottle Retail, indicating larger Pack Size means more discounts. However, increased Pack Size helps increase Bottles Sold.
 - Time Trend Changes: From 2018 to 2022, correlations between main variables remained relatively stable, with small coefficient changes, indicating mature market pricing mechanisms and sales models.
 
-![](./Graphs/Feature_Importance_2018.png)![](./Graphs/Feature_Importance_2020.png)![](./Graphs/Feature_Importance_2022.png)
+
+<div style="display: flex; justify-content: space-around;">
+  <img src="./Graphs/Feature_Importance_2018.png" alt="Image 1" width="330"/>
+  <img src="./Graphs/Feature_Importance_2020.png" alt="Image 2" width="330"/>
+  <img src="./Graphs/Feature_Importance_2022.png" alt="Image 3" width="330"/>
+</div>
 
 For feature importance analysis, studying Sales Dollar against State Bottle Retail, Pack, Bottle Volume, and Bottles Sold features across 2018, 2020, and 2022:
 

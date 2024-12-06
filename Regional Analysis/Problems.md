@@ -19,4 +19,10 @@ Searching locations based on store address is much better, especially when we ad
 
 We checked the Google Map, the store names on Google Map are much more accurate than OSM, and giving addresses will return very accurate coordinates. Besides the geocoding service by Google Map allows batch querying, which will greatly speed up the searching speed. The only problem is Google Map isn’t free, and that was why we did not use it.
 
-## Tips on normalizing data for comparison
+### Looking for tags that are relevant but cannot find any result
+When we tried to find local places of interest near liquor stores, one problem we encountered was to determine the tag to use. There are so many tags in OSM, there are “tags” under tags, which ones shall we look for? 
+
+At first we thought all relevant tags were under the “amenity” type, such as “amenity”: “restaurant”, “amenity”:”supermarket”, etc. Then after searching those tags by osmnx, it returned 0 supermarket and 0 stadium. We thought it would be impossible to have no stadium at all in Polk County! So we tried searching “stadium near Polk County” directly on OpenStreetMap webpage. By examining the result, we found that the correct tag should be “leisure”: “stadium”.
+
+So finally the tags we used for searching local POIs became this:
+

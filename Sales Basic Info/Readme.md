@@ -57,8 +57,7 @@ From the graphs, we can see:
 
 ### Detailed Analysis
 
-![](./Graphs/liquor_trends.png)
-![](./Graphs/pack_trends.png)
+![](./Graphs/liquor_trends.png)![](./Graphs/pack_trends.png)
 ![](./Graphs/city_distribution.png)
 
 From the graphs, we can see:
@@ -70,9 +69,7 @@ From the graphs, we can see:
 
 ### Correlation and Feature Importance Analysis
 
-![](./Graphs/Liquor_Sales_Correlation_Heatmap_2018.png)
-![](./Graphs/Liquor_Sales_Correlation_Heatmap_2020.png)
-![](./Graphs/Liquor_Sales_Correlation_Heatmap_2022.png)
+![](./Graphs/Liquor_Sales_Correlation_Heatmap_2018.png)![](./Graphs/Liquor_Sales_Correlation_Heatmap_2020.png)![](./Graphs/Liquor_Sales_Correlation_Heatmap_2022.png)
 
 Based on correlation heatmaps from 2018, 2020, and 2022:
 
@@ -80,9 +77,7 @@ Based on correlation heatmaps from 2018, 2020, and 2022:
 - Pack Size Impact: Pack negatively correlates with Bottle Volume, coefficient around -0.5, larger Pack Size means smaller bottle volume. Pack Size also negatively correlates with State Bottle Retail, indicating larger Pack Size means more discounts. However, increased Pack Size helps increase Bottles Sold.
 - Time Trend Changes: From 2018 to 2022, correlations between main variables remained relatively stable, with small coefficient changes, indicating mature market pricing mechanisms and sales models.
 
-![](./Graphs/Feature_Importance_2018.png)
-![](./Graphs/Feature_Importance_2020.png)
-![](./Graphs/Feature_Importance_2022.png)
+![](./Graphs/Feature_Importance_2018.png)![](./Graphs/Feature_Importance_2020.png)![](./Graphs/Feature_Importance_2022.png)
 
 For feature importance analysis, studying Sales Dollar against State Bottle Retail, Pack, Bottle Volume, and Bottles Sold features across 2018, 2020, and 2022:
 

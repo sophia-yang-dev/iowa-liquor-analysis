@@ -8,7 +8,7 @@ But wait, are we really working with large geospatial data? Think about the scen
 
 So our strategy is quite straightforward, we use Spark to “shrink” the data into a minimum number of rows before we feed it to Pandas, do whatever geospatial operation with this smaller table, save the result and convert back to Spark, and use Spark to join back this result with the original big data for whatever further analysis. Which means, we only use Pandas when we have to, and we always check the number of rows we send to Pandas.
 
-This strategy can be reflected in the implementations of [POI analysis](Topic2.md) and [filling missing location data]().
+This strategy can be reflected in the implementations of [POI analysis](Topic2.md#count-number-of-pois-within-2km-for-each-liquor-store) and [filling missing location data]().
 
 ## Messy data from OpenStreetMap
 

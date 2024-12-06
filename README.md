@@ -1,5 +1,7 @@
 
 # Methodology
+## Sales Trend Analysis
+
 ## Regional Analysis
 We studied two topics regarding regional information. One is more general on the sales analysis at County level. The other is more local focusing on the local geospatial factors that could influence sales.  
 ### Topic 1: Regional Analysis on County Level
@@ -27,6 +29,7 @@ To perform geospatial analysis, we implemented the following tasks:
 
 [See More Details](Regional%20Analysis/Topic2.md#methodology).  
 
+## Crime and Liquor Consumption Analysis
 
 
 # Problems
@@ -36,3 +39,7 @@ We want to do some geospatial analysis, such as interacting with OSM, spatial jo
 ### Messy data from OpenStreetMap
 
 [See More Details](Regional%20Analysis/Problems.md#messy-data-from-openstreetmap)
+
+
+# Results
+## Regional Analysis

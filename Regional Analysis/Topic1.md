@@ -16,4 +16,13 @@ We downloaded the [Iowa County shapefile](https://hub.arcgis.com/datasets/8a1c2d
 ## Result
 ### Q1. Which County Has More Liquor Stores?
 Polk County has the most liquor stores, with nearly 400 stores.  
-<img src="figures/result_q1.png" alt="result_q1" width="800">
+<img src="figures/result_q1.png" alt="result_q1" width="800">.  
+### Q2. Which County Spend the Most on Liquor?
+We can imagine, with 400 liquor stores, Polk County will have the highest annual sales on liquor in Iowa. The result proves that. Polk County spends way more than other Counties.  
+<img src="figures/result_q2.png" alt="result_q2" width="800">.  
+### Q3. Which County Loves Drinking the Most?
+People in Dickinson love drinking the most. People on average drink more than 16 Liters of alcohol each year.  
+<img src="figures/result_q3.png" alt="result_q3" width="800">.  
+### Q4. Which County Has Best Performing Stores?
+Many Counties sales data look fine. The stores in Polk County, Scott, Woodbury, Cerro Gordo and Dickinson (no doubt!)  have the best annual sales on average.  
+<img src="figures/result_q4.png" alt="result_q4" width="800">

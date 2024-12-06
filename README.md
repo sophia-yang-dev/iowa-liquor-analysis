@@ -37,7 +37,7 @@ To perform geospatial analysis, we implemented the following tasks:
 We want to do some geospatial analysis, such as interacting with OSM, spatial join two locations, plot maps, etc. Unfortunately, many popular geospatial analysis tools are not big data tools (for example, Geopy, GeoPandas, Osmnx, etc.). Our strategy is to use Spark to “shrink” the data into a minimum number of rows before we feed it to Pandas, do whatever geospatial operation with this smaller table, save the result and convert back to Spark, and use Spark to join back this result with the original big data for whatever further analysis.  
 [See More Details](Regional%20Analysis/Problems.md#integrate-big-data-analysis-with-non-big-data-tools)
 ### Messy data from OpenStreetMap
-OpenStreetMap is good in its rich contents and API services, and it is totally free. However, because anyone can annotate, the data on OSM is sometimes messy. Here are some situations we encountered and how we dealt with it:
+OpenStreetMap is good in its rich contents and API services, and it is totally free. However, because anyone can annotate, the data on OSM is sometimes messy. Here are some situations we encountered and how we dealt with:
 
 * When searching locations based on store name or store address.
 * Looking for tags that are relevant but cannot find any result.

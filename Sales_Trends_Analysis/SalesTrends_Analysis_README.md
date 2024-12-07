@@ -161,7 +161,7 @@ Insights: Thanksgiving and Christmas play a pivotal role in yearly sales perform
 
   - Chart 4: Model Performance and Prediction
 Summary: The Random Forest model demonstrates good performance, with an 𝑅*2=0.83, indicating that the model explains 83% of the variance in the target variable. However, the Mean Squared Error (MSE) is relatively high, likely due to the large scale of the sales data. The predicted total sales for December 2024 are 41,553,747.55 USD.
-Insights: The model provides reasonable predictive value for December 2024 sales, but further optimization in feature engineering could help reduce the prediction error.
+Insights: The model provides reasonable predictive value for December 2024 sales.
 
 
 

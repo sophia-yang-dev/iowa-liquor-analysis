@@ -34,3 +34,4 @@ So finally the tags we used for searching local POIs became this:
   }
 ```
 ### Repetitive annotation of the same building
+When counting the number of POIs within 2km of a liquor store, we found for some liquor store, the number of nearby stadium is 12. However it is impossible to have 12 stadiums in a 2km range! Again we checked the store and stadium on OSM website, and found out that [this stadium](https://www.openstreetmap.org/search?query=stadium%20near%20302%20S%20ANKENY%20BLVD#map=19/41.740010/-93.603568) has been repetitively annotated for 12 times (Perhaps peaple were annotating the different seat areas). In this case, we use our human reasoning, to limit the number of stadium to be one whenever a match has been found.

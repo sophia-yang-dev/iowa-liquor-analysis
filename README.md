@@ -210,11 +210,11 @@ The standard linear regression method provided better predictions with lower los
 ## Project Summary
 
 * Getting the data: Acquiring/gathering/downloading.(1) 
-  * [See dataset we used]()
+  * [See dataset](README.md#problem-definition)
 * ETL: Extract-Transform-Load work and cleaning the data set. (3)
   * We [cleaned data](Data_Processing_Cleaning/DataCleaning_README.md#data_processing_cleaning) with missing/error values, and did extra work on [filling missing location data](Data_Processing_Cleaning/DataCleaning_README.md#add-locations-from-openstreetmap-osm).   
 * Problem: Work on defining problem itself and motivation for the analysis.(3) 
-  * [Links in report]()
+  * [Project objectives](README.md#problem-definition)
 * Algorithmic work: Work on the algorithms needed to work with the data, including integrating data mining and machine learning techniques.(4)
   *  Machine learning in [sales prediction](Sales_Trends_Analysis/SalesTrends_Analysis_README.md#methods-and-tools), [feature correlation analysis](Sales%20Basic%20Info#correlation-and-feature-importance-analysis), [crime prediction](alcohol_and_vandalism_prediction/README.md#methodology)
   *  Worked with [geospatial data](Regional%20Analysis/Topic2.md#search-places-of-interests-poi-by-openstreetmap) and integrated big data analysis with non big data tools.

@@ -78,13 +78,13 @@ This one is just a small tips when we tried to compare sales among different sto
   * [Links in report]()
 * Algorithmic work: Work on the algorithms needed to work with the data, including integrating data mining and machine learning techniques.(4)
   *  Machine learning in [sales prediction](), [feature correlation analysis](), [crime prediction]()
-  *  Integrate big data analysis with non big data tools.
+  *  Worked with geospatial data and integrated big data analysis with non big data tools.
 * Bigness/parallelization: Efficiency of the analysis on a cluster, and scalability to larger data sets.(1) 
   *  Although we didn't use cluster for storage and computation, our implementation can be scaled to larger datasets.
 * UI: User interface to the results, possibly including web or data exploration frontends. (0)  
 * Visualization: Visualization of analysis results. (4). 
   * We used Matplotlib to plot plenty of anlaysis results including barcharts, line graph, piechart, heatmap, etc.
-  * We also plot our [regional analysis]() geographically using GeoPandas.
+  * We also plot our [regional analysis](Regional%20Analysis/Topic1.md#result) geographically using GeoPandas.
 * Technologies: New technologies learned as part of doing the project. (4). 
   * A few technologies we learned and used while completing this project are Python Spark, Scikit-learn, Matplotlib, GeoPandas, Geopy, Osmnx
 

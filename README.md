@@ -73,17 +73,17 @@ This one is just a small tips when we tried to compare sales among different sto
 * Getting the data: Acquiring/gathering/downloading.(1) 
   * [See dataset we used]()
 * ETL: Extract-Transform-Load work and cleaning the data set. (3)
-  * We [cleaned data]() with missing/error values, and did extra work on [filling missing location data]().   
+  * We [cleaned data](Data_Processing_Cleaning/DataCleaning_README.md#data_processing_cleaning) with missing/error values, and did extra work on [filling missing location data](Data_Processing_Cleaning/DataCleaning_README.md#add-locations-from-openstreetmap-osm).   
 * Problem: Work on defining problem itself and motivation for the analysis.(3) 
   * [Links in report]()
 * Algorithmic work: Work on the algorithms needed to work with the data, including integrating data mining and machine learning techniques.(4)
-  *  Machine learning in [sales prediction](), [feature correlation analysis](), [crime prediction]()
-  *  Worked with geospatial data and integrated big data analysis with non big data tools.
+  *  Machine learning in [sales prediction](Sales_Trends_Analysis/SalesTrends_Analysis_README.md#methods-and-tools), [feature correlation analysis](Sales%20Basic%20Info#correlation-and-feature-importance-analysis), [crime prediction]()
+  *  Worked with [geospatial data](Regional%20Analysis/Topic2.md#search-places-of-interests-poi-by-openstreetmap) and integrated big data analysis with non big data tools.
 * Bigness/parallelization: Efficiency of the analysis on a cluster, and scalability to larger data sets.(1) 
   *  Although we didn't use cluster for storage and computation, our implementation can be scaled to larger datasets.
 * UI: User interface to the results, possibly including web or data exploration frontends. (0)  
 * Visualization: Visualization of analysis results. (4). 
-  * We used Matplotlib to plot plenty of anlaysis results including barcharts, line graph, piechart, heatmap, etc.
+  * We used Matplotlib to plot plenty of anlaysis results including [barcharts, line graph, piechart, heatmap, etc](Sales%20Basic%20Info#results).
   * We also plot our [regional analysis](Regional%20Analysis/Topic1.md#result) geographically using GeoPandas.
 * Technologies: New technologies learned as part of doing the project. (4). 
   * A few technologies we learned and used while completing this project are Python Spark, Scikit-learn, Matplotlib, GeoPandas, Geopy, Osmnx

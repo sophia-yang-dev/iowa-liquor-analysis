@@ -39,5 +39,9 @@ The objective was to predict vandalism rates across counties by alcohol consumpt
 ### 3. Loss:
 * The standard linear regression outperformed the EWMA method on the test set, with a lower loss (78,850 vs. 89,769).
 * This suggests that long-term trends may better capture the relationships between alcohol sales and vandalism rates compared to recent trends.
+
+<img src="sheet.png" alt="sheet" width="800">.  
+<img src="result.png" alt="sheet" width="800">.   
+
 ## Conclusion:
 The standard linear regression method provided better predictions with lower loss. The EWMA method emphasized recent data but failed to outperform the standard approach. This indicates that historical data trends may be more influential in predicting vandalism rates.

@@ -1,7 +1,7 @@
 # CMPT 732 Big Data Project Report
 
 * Theme: Analysis of Liquor Sales Data in Iowa
-* YouTube video link:
+* YouTube video link: https://www.youtube.com/watch?v=eNGkROW1Uew&ab_channel=SophiaYang
 * Github Link: https://github.sfu.ca/wya65/cheerstodata
 
 ## Problem definition

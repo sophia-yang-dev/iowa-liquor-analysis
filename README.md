@@ -20,10 +20,10 @@ Conducting commodity trading is a vital economic activity. The liquor sales data
 * Additional dataset 3: [crime data]()
 
 **To achieve the objectives we defined, we have divided our study into four aspects:**
-* General Analysis on Sales
-* Sales Trends Analysis
-* Regional Analysis
-* Crime and Liquor Consumption Analysis
+* [General Analysis on Sales](Sales%20Basic%20Info#analysis-of-iowa-state-liquor-sales-data-extremes-distribution-and-correlation)
+* [Sales Trends Analysis](Sales_Trends_Analysis/SalesTrends_Analysis_README.md#salestrends_analysis)
+* [Regional Analysis](Regional%20Analysis#readme)
+* [Crime and Liquor Consumption Analysis](alcohol_and_vandalism_prediction#readme)
 
 
 ## 2. Methodology
@@ -60,20 +60,21 @@ In this part: Analysis of the Iowa State Liquor sales dataset explored several d
 
 [See More Details](Sales%20Basic%20Info/Readme.md#Methodology)
 
-### Analysis from Time Perspective
+### Sales Trends Analysis
 
 In this part: Explore sales trends in Iowa Liquor Sales data and forecast future sales:
 
-- **Exploratory Analysis**: Analyze sales patterns from 2018 to 2024, including monthly, quarterly, and holiday-specific trends, to identify seasonal and annual variations.
-  - Monthly Sales Trend Analysis: Used Pandas pivot tables and Matplotlib line charts to compare monthly sales across years, highlighting seasonal fluctuations and annual trends.
-  - Quarterly Sales Trend Analysis: Aggregated sales by quarter and year, visualized with stacked bar charts to show quarterly contributions to annual performance.
-  - Holiday Sales Analysis: Defined key holidays, matched sales data using UDFs, aggregated holiday sales, and visualized comparisons across years with grouped bar charts.
+**Exploratory Analysis**: Analyze sales patterns from 2018 to 2024, including monthly, quarterly, and holiday-specific trends, to identify seasonal and annual variations. We implemented the following tasks:
+  - Monthly Sales Trend Analysis
+  - Quarterly Sales Trend Analysis
+  - Holiday Sales Analysis
 
-- **Sales Forecasting**: Use machine learning techniques to predict future sales, with a particular focus on December 2024 sales performance.
-  - Feature Engineering: Created features like Year, Quarter, and Month, combined with historical total sales to build a machine learning training dataset.
-  - Model Selection: Used Random Forest Regressor for its ability to model non-linear relationships and provide feature importance. Split data into training (80%) and testing (20%) sets, then trained the model on the complete dataset for final predictions.
-  - Model Evaluation: Assessed performance using Mean Squared Error (MSE) to measure prediction accuracy and R² score to evaluate explained variance.
-  - Forecasting Process: Retrained the model on the full dataset to predict December 2024 sales, offering actionable insights for future decision-making.
+
+**Sales Forecasting**: Use machine learning techniques to predict future sales, with a particular focus on December 2024 sales performance. Including the following tasks:
+  - Feature Engineering
+  - Model Selection
+  - Model Evaluation
+  - Forecasting Process
 
 > Tools:PySpark efficiently handles large-scale data processing with distributed computing and a SQL-style API for feature extraction and filtering. Pandas offers flexibility for data manipulation, pivot tables, and feature preparation. Matplotlib provides customizable tools for visualizing sales trends, while Scikit-learn delivers robust machine learning models and metrics for regression analysis.
 
@@ -114,20 +115,12 @@ We are using two methods:
 * Standard Linear Regression: Utilized total alcohol sales data (order count and total gallons sold) as features.
 * Exponentially Weighted Moving Average (EWMA): Emphasized recent trends in alcohol sales using a weighted average.
 
-##### Process:
-
+##### Analysis Process Including:
 * Data Splitting:
-    * The first 60 counties (sorted alphabetically) were used as the training set.
-    * The remaining counties were used as the testing set.
-* Feature Engineering:
-    * For the standard method: Total orders and total gallons sold were directly used as features.
-    * For the EWMA method: Features were calculated using a span of 3 for EWMA to emphasize recent sales data trends.
-* Evaluation:
-    * Both models were trained using the training set.
-    * The test set was used to evaluate performance using the mean squared error (MSE) as the loss function.
-    * Weights (w1,w2) and intercept (b) were extracted for interpretability.
+* Feature Engineering: For the standard method: Total orders and total gallons sold were directly used as features. For the EWMA method: Features were calculated using a span of 3 for EWMA to emphasize recent sales data trends.
+* Evaluation: Both models were trained using the training set. The test set was used to evaluate performance using the mean squared error (MSE) as the loss function. Weights (w1,w2) and intercept (b) were extracted for interpretability.
 
-[See More Details](Sales_Trends_Analysis/SalesTrends_Analysis_README.md#salestrends_analysis)
+[See More Details](alcohol_and_vandalism_prediction/README.md#methodology)
 
 ## Problems
 
@@ -185,13 +178,16 @@ In the correlation and feature analysis, we can see the impact of wine packaging
 - Thanksgiving and Christmas play a pivotal role in yearly sales performance, suggesting businesses could benefit from intensified promotional efforts in the lead-up to these holidays.
 - The Random Forest model can provide reasonable predictive value for December 2024 sales.
 
-[See More Details and Graphs](Sales_Trends_Analysis/SalesTrends_Analysis_README.md#Result Analysis)
-?? 为啥不是一个链接
+[See More Details and Graphs](Sales_Trends_Analysis/SalesTrends_Analysis_README.md#result-analysis)
 
 ### Regional Analysis Results
 
+**Regional Analysis on County Level**
 
+[See More Details and Graphs](Regional%20Analysis/Topic1.md#result)
 
+**What Geospatial Factors Might Influence Liquor Sales**
+[See More Details and Graphs](Regional%20Analysis/Topic2.md#result)
 
 
 

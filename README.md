@@ -3,7 +3,10 @@
 # Methodology
 ## Data Processing and Cleaning
 
-[See More Details](Data_Processing_Cleaning/DataCleaning_README.md)
+[See More Details](Data_Processing_Cleaning/DataCleaning_README.md). 
+## Sales Basic Info
+
+[See More Details](Sales%20Basic%20Info/Readme.md)
 ## Sales Trend Analysis
 
 [See More Details](SalesTrends_Analysis_README.md)
@@ -52,10 +55,18 @@ OpenStreetMap is good in its rich contents and API services, and it is totally f
 This one is just a small tips when we tried to compare sales among different stores. We noticed that it is not fair to compare the total sales or total transactions, since some shop has opened for several years but other stores might just opened for a few months. It also does not help if divide the sales with the same time span (say for example 10 years of our dataset). The method we use is to find the earlist and latest record a store has, divide the difference by 365 days and round to a whole year. Now the normalization is store-wise, depending on the number of years it has opened.
 
 # Results
+## Basic Sales Data
+
+[See More Details](Sales%20Basic%20Info#results)
+## Sales Trend Analysis
+
+[See More Details](SalesTrends_Analysis_README.md#result-analysis)
 ## Regional Analysis
 ### Regional Analysis on County Level
+[See More Details](Regional%20Analysis/Topic1.md#result)
 
-
+### Geospatial Factors that Influence Liquor Sales
+[See More Details](Regional%20Analysis/Topic2.md#result)
 # Project Summary
 
 * Getting the data: Acquiring/gathering/downloading.(1). 

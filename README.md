@@ -187,6 +187,8 @@ In the correlation and feature analysis, we can see the impact of wine packaging
 [See More Details and Graphs](Regional%20Analysis/Topic1.md#result)
 
 **What Geospatial Factors Might Influence Liquor Sales**
+The number of restaurants nearby has a positive influence on liquor store performance. On average, a store surrounded by more than 10 liquor stores has higher annual sales and transactions amount than a store with no restaurant at all. The number of bars surrounding liquor stores also affect the yearly transactions, sales, and volumes sold in a positive way. There is no pattern of how local stadiums influence liquor store sales.
+
 [See More Details and Graphs](Regional%20Analysis/Topic2.md#result)
 
 

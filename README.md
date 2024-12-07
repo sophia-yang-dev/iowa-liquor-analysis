@@ -115,7 +115,7 @@ We are using two methods:
 * Standard Linear Regression: Utilized total alcohol sales data (order count and total gallons sold) as features.
 * Exponentially Weighted Moving Average (EWMA): Emphasized recent trends in alcohol sales using a weighted average.
 
-##### Analysis Process Including:
+The analysis process includes the following steps:
 * Data Splitting:
 * Feature Engineering: For the standard method: Total orders and total gallons sold were directly used as features. For the EWMA method: Features were calculated using a span of 3 for EWMA to emphasize recent sales data trends.
 * Evaluation: Both models were trained using the training set. The test set was used to evaluate performance using the mean squared error (MSE) as the loss function. Weights (w1,w2) and intercept (b) were extracted for interpretability.
@@ -171,7 +171,7 @@ In the correlation and feature analysis, we can see the impact of wine packaging
 
  [See More Details and Graphs](Sales%20Basic%20Info/Readme.md#Results)
 
-### Time Perspective Analysis Results
+### Sales Trends Analysis Results
 
 - Sales exhibit seasonal fluctuations, with peaks at the end of the year and relatively stable performance during other months.
 - The fourth quarter contributes the highest portion to annual sales, likely due to increased holiday-related consumption. The trends across quarters remain consistent between years.

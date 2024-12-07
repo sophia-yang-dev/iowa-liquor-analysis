@@ -1,7 +1,7 @@
 How to Run this program:
 
 #1 Prepare the Data:
-Place part-0.csv in the same directory as vandalism.py. Here is the download link for the file, part-0.csv: https://docs.google.com/spreadsheets/d/1gOMUd-8OSWYGjJVDuIcWg3oxJgb6XuKcY5jLHffCSP0/edit?usp=share_link
+Place part-0.csv in the same directory as vandalism.py. Here is the download link for the file, part-0.csv, which is a snippet of the original data: https://docs.google.com/spreadsheets/d/1gOMUd-8OSWYGjJVDuIcWg3oxJgb6XuKcY5jLHffCSP0/edit?usp=share_link
 
 #2 Install Dependencies:
 Make sure Python 3.x is installed.

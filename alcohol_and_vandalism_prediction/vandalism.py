@@ -2,6 +2,7 @@ import pandas as pd
 from sklearn.linear_model import LinearRegression
 from io import StringIO
 import numpy as np
+import matplotlib.pyplot as plt
 
 # Load the sales data
 file_path = "part-0.csv"  # Update this to match your file path
@@ -15,6 +16,7 @@ county_stats = data.groupby('County').agg(
     order_count=('Invoice/Item Number', 'count'),
     total_gallons=('Volume Sold (Gallons)', 'sum')
 ).reset_index()
+
 
 # Load the vandalism data
 vandalism_data = """
@@ -138,11 +140,9 @@ y_test = test_data['2022'].values
 model = LinearRegression()
 model.fit(X_train, y_train)
 
-# Get weights and intercept for standard linear regression
+# Get weights, intercept, and predictions for the test set
 w1, w2 = model.coef_
 b = model.intercept_
-
-# Evaluate on the test set
 y_pred_test = model.predict(X_test)
 loss_test_standard = np.mean((y_test - y_pred_test) ** 2)
 
@@ -188,15 +188,13 @@ y_ewma_test = test_ewma_data['2022'].values
 model_ewma = LinearRegression()
 model_ewma.fit(X_ewma_train, y_ewma_train)
 
-# Get weights and intercept for EWMA method
+# Get weights, intercept, and predictions for the test set
 w1_ewma, w2_ewma = model_ewma.coef_
 b_ewma = model_ewma.intercept_
-
-# Evaluate on the test set
 y_ewma_pred_test = model_ewma.predict(X_ewma_test)
 loss_test_ewma = np.mean((y_ewma_test - y_ewma_pred_test) ** 2)
 
-# Output results
+# Print results
 print("Linear Regression (Normal Method):")
 print(f"w1: {w1}, w2: {w2}, b: {b}")
 print(f"Loss (Test Set - Normal Method): {loss_test_standard}")
@@ -204,3 +202,28 @@ print(f"Loss (Test Set - Normal Method): {loss_test_standard}")
 print("\nLinear Regression (EWMA Method):")
 print(f"w1_ewma: {w1_ewma}, w2_ewma: {w2_ewma}, b_ewma: {b_ewma}")
 print(f"Loss (Test Set - EWMA Method): {loss_test_ewma}")
+
+# Plotting the results
+plt.figure(figsize=(14, 6))
+
+# Plot for Standard Linear Regression
+plt.subplot(1, 2, 1)
+plt.plot(y_test, label="True Values", marker='o')
+plt.plot(y_pred_test, label="Predicted Values (Linear Regression)", marker='x')
+plt.title("Standard Linear Regression")
+plt.xlabel("Test Sample Index")
+plt.ylabel("Vandalism Rate")
+plt.legend()
+
+# Plot for EWMA Method
+plt.subplot(1, 2, 2)
+plt.plot(y_ewma_test, label="True Values", marker='o')
+plt.plot(y_ewma_pred_test, label="Predicted Values (EWMA)", marker='x')
+plt.title("EWMA Method")
+plt.xlabel("Test Sample Index")
+plt.ylabel("Vandalism Rate")
+plt.legend()
+
+# Show the plots
+plt.tight_layout()
+plt.show()

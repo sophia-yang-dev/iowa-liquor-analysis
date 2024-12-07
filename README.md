@@ -42,9 +42,9 @@ OpenStreetMap is good in its rich contents and API services, and it is totally f
 * When searching locations based on store name or store address.
 * Looking for tags that are relevant but cannot find any result.
 * Repetitive annotation of the same building.
-
 [See More Details](Regional%20Analysis/Problems.md#messy-data-from-openstreetmap)
-
+### Normalize data for fair comparision
+This one is just a small tips when we tried to compare sales among different stores. We noticed that it is not fair to compare the total sales or total transactions, since some shop has opened for several years but other stores might just opened for a few months. It also does not help if divide the sales with the same time span (say for example 10 years of our dataset). The method we use is to find the earlist and latest record a store has, divide the difference by 365 days and round to a whole year. Now the normalization is store-wise, depending on the number of years it has opened.
 
 # Results
 ## Regional Analysis

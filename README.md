@@ -1,7 +1,12 @@
 
+# Problem Definition:
 # Methodology
+## Data Processing and Cleaning
+
+[See More Details](Data_Processing_Cleaning/DataCleaning_README.md)
 ## Sales Trend Analysis
 
+[See More Details](SalesTrends_Analysis_README.md)
 ## Regional Analysis
 We studied two topics regarding regional information. One is more general on the sales analysis at County level. The other is more local focusing on the local geospatial factors that could influence sales.  
 ### Topic 1: Regional Analysis on County Level

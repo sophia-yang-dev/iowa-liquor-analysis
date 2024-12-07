@@ -229,5 +229,5 @@ The standard linear regression method provided better predictions with lower los
 
 Total: 20. 
 
-Project Contributors: Sophia Yang (xya134, 301627219), Yingzi Yuan (yya, ), Weiwei Zhang (, ), Wenqian Yue( , ) 
+Project Contributors: Sophia Yang (xya134, 301627219), Yingzi Yuan (yya,301621972), Weiwei Zhang (, ), Wenqian Yue( , ) 
 

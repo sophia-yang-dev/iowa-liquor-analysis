@@ -3,7 +3,7 @@
 # Methodology
 ## Data Processing and Cleaning
   
-[See More Details](DataCleaning_README.md#data_processing_cleaning)  
+[See More Details](Data_Processing_Cleaning/DataCleaning_README.md#data_processing_cleaning)  
 
 ## Sales Basic Info
 

@@ -140,7 +140,7 @@ The analysis process includes the following steps:
 We want to do some geospatial analysis, such as interacting with OSM, spatial join two locations, plot maps, etc. Unfortunately, many popular geospatial analysis tools are not big data tools (for example, Geopy, GeoPandas, Osmnx, etc.). Our strategy is to use Spark to “shrink” the data into a minimum number of rows before we feed it to Pandas, do whatever geospatial operation with this smaller table, save the result and convert back to Spark, and use Spark to join back this result with the original big data for whatever further analysis.  
 [See More Details](Regional%20Analysis/Problems.md#integrate-big-data-analysis-with-non-big-data-tools)
 
-* **Messy data from OpenStreetMap**
+* **Messy data from OpenStreetMap**.  
 OpenStreetMap is good in its rich contents and API services, and it is totally free. However, because anyone can annotate, the data on OSM is sometimes messy. Here are some situations we encountered and how we dealt with:
 
   * When searching locations based on store name or store address.
@@ -184,9 +184,9 @@ In the correlation and feature analysis, we can see the impact of wine packaging
 ### Regional Analysis Results
 
 **Regional Analysis on County Level**.  
-The County that have the most number of liquor store is Polk County.
-The County that loves drinking the most is Dikinson.
-The County that has the best performing store is again Polk County.
+The County that have the most number of liquor store is Polk County.  
+The County that loves drinking the most is Dikinson.  
+The County that has the best performing store is again Polk County.  
 
 [See More Details and Graphs](Regional%20Analysis/Topic1.md#result)
 
@@ -202,7 +202,7 @@ The number of restaurants nearby has a positive influence on liquor store perfor
 
 The standard linear regression method provided better predictions with lower loss. The EWMA method emphasized recent data but failed to outperform the standard approach. This indicates that historical data trends may be more influential in predicting vandalism rates.
 
-[See More Details and Graphs]()
+[See More Details and Graphs](alcohol_and_vandalism_prediction/README.md#observations)
 
 
 
@@ -216,7 +216,7 @@ The standard linear regression method provided better predictions with lower los
 * Problem: Work on defining problem itself and motivation for the analysis.(3) 
   * [Links in report]()
 * Algorithmic work: Work on the algorithms needed to work with the data, including integrating data mining and machine learning techniques.(4)
-  *  Machine learning in [sales prediction](Sales_Trends_Analysis/SalesTrends_Analysis_README.md#methods-and-tools), [feature correlation analysis](Sales%20Basic%20Info#correlation-and-feature-importance-analysis), [crime prediction]()
+  *  Machine learning in [sales prediction](Sales_Trends_Analysis/SalesTrends_Analysis_README.md#methods-and-tools), [feature correlation analysis](Sales%20Basic%20Info#correlation-and-feature-importance-analysis), [crime prediction](alcohol_and_vandalism_prediction/README.md#methodology)
   *  Worked with [geospatial data](Regional%20Analysis/Topic2.md#search-places-of-interests-poi-by-openstreetmap) and integrated big data analysis with non big data tools.
 * Bigness/parallelization: Efficiency of the analysis on a cluster, and scalability to larger data sets.(1) 
   *  Although we didn't use cluster for storage and computation, our implementation can be scaled to larger datasets.

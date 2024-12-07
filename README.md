@@ -2,8 +2,9 @@
 # Problem Definition:
 # Methodology
 ## Data Processing and Cleaning
-
+  
 [See More Details](DataCleaning_README.md#data_processing_cleaning)  
+
 ## Sales Basic Info
 
 [See More Details](Sales%20Basic%20Info/Readme.md)

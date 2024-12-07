@@ -61,7 +61,7 @@ This one is just a small tips when we tried to compare sales among different sto
 [See More Details](Sales%20Basic%20Info#results)
 ## Sales Trend Analysis
 
-[See More Details](SalesTrends_Analysis_README.md#result-analysis)
+[See More Details](Sales_Trends_Analysis/SalesTrends_Analysis_README.md#result-analysis)
 ## Regional Analysis
 ### Regional Analysis on County Level
 [See More Details](Regional%20Analysis/Topic1.md#result)

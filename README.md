@@ -182,11 +182,14 @@ In the correlation and feature analysis, we can see the impact of wine packaging
 
 ### Regional Analysis Results
 
-**Regional Analysis on County Level**
+**Regional Analysis on County Level**.  
+The County that have the most number of liquor store is Polk County.
+The County that loves drinking the most is Dikinson.
+The County that has the best performing store is again Polk County.
 
 [See More Details and Graphs](Regional%20Analysis/Topic1.md#result)
 
-**What Geospatial Factors Might Influence Liquor Sales**
+**What Geospatial Factors Might Influence Liquor Sales**.  
 The number of restaurants nearby has a positive influence on liquor store performance. On average, a store surrounded by more than 10 liquor stores has higher annual sales and transactions amount than a store with no restaurant at all. The number of bars surrounding liquor stores also affect the yearly transactions, sales, and volumes sold in a positive way. There is no pattern of how local stadiums influence liquor store sales.
 
 [See More Details and Graphs](Regional%20Analysis/Topic2.md#result)

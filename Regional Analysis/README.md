@@ -13,5 +13,5 @@ We have analyzed two topics regarding regional information.
 * Use OSM to search places of interests within 2km range for each store
 
 
-**amenity_analysis.py
+**amenity_analysis.py**
 * Analysis sales and consumption patterns influenced by nearby POIs

@@ -126,6 +126,7 @@ The analysis process includes the following steps:
 
 ### Problems in Bacic Data Processing and Spark running
 
+- Normalize data for fair comparision. This one is just a small tips when we tried to compare sales among different stores. We noticed that it is not fair to compare the total sales or total transactions, since some shop has opened for several years but other stores might just opened for a few months. The method we use is to find the earlist and latest record a store has, divide the difference by 365 days and round to a whole year. Now the normalization is store-wise, depending on the number of years it has opened.  
 - Memory management: Memory was often insufficient during Spark operations. To solve this, I tried various methods, including configuring appropriate memory parameters, increasing JVM heap memory, optimizing data processing flow, and reducing data volume.
 - Version issues: Incompatibility between Spark and pyspark versions led to some functions being unusable, later switched to Pandas for data processing.
 - Spark sessions not properly closed, leading to resource release issues, later wrote finally blocks to ensure resource release.
@@ -135,7 +136,7 @@ The analysis process includes the following steps:
 
 ### Problems in Geographic data Processing
 
-* **Integrate big data analysis with non-big data tools**
+* **Integrate big data analysis with non-big data tools**.  
 We want to do some geospatial analysis, such as interacting with OSM, spatial join two locations, plot maps, etc. Unfortunately, many popular geospatial analysis tools are not big data tools (for example, Geopy, GeoPandas, Osmnx, etc.). Our strategy is to use Spark to “shrink” the data into a minimum number of rows before we feed it to Pandas, do whatever geospatial operation with this smaller table, save the result and convert back to Spark, and use Spark to join back this result with the original big data for whatever further analysis.  
 [See More Details](Regional%20Analysis/Problems.md#integrate-big-data-analysis-with-non-big-data-tools)
 

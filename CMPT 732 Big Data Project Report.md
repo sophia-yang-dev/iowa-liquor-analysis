@@ -227,7 +227,8 @@ The standard linear regression method provided better predictions with lower los
 * Technologies: New technologies learned as part of doing the project. (4). 
   * A few technologies we learned and used while completing this project are Python Spark, Scikit-learn, Matplotlib, GeoPandas, Geopy, Osmnx
 
-Total: 20. 
+**Total: 20.**
+
 
 Project Contributors: Sophia Yang (xya134, 301627219), Yingzi Yuan (yya,301621972), Weiwei Zhang (wza124,301622769), Wenqian Yue(wya65, 301625841) 
 

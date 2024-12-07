@@ -2,7 +2,7 @@
 
 * Theme: Analysis of Liquor Sales Data in Iowa
 * YouTube video link:
-* Github Link: 
+* Github Link: https://github.sfu.ca/wya65/cheerstodata
 
 ## Problem definition
 

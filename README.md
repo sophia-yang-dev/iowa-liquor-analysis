@@ -53,20 +53,18 @@ This one is just a small tips when we tried to compare sales among different sto
 
 # Project Summary
 
-* Getting the data: Acquiring/gathering/downloading.(1)
-Data Acquiring
+* Getting the data: Acquiring/gathering/downloading.(1). 
 * ETL: Extract-Transform-Load work and cleaning the data set. (3)
-Data Cleaning
-* Problem: Work on defining problem itself and motivation for the analysis.(3)
+* Problem: Work on defining problem itself and motivation for the analysis.(3).  
 We have already answered it in “Problem Definition” and “Some Questions We Intend to Answer” sections.
-* Algorithmic work: Work on the algorithms needed to work with the data, including integrating data mining and machine learning techniques.(4)
-* Bigness/parallelization: Efficiency of the analysis on a cluster, and scalability to larger data sets.(1)
-* UI: User interface to the results, possibly including web or data exploration frontends. (2)
-We used the Github Pages and Github CI/CD pipleine to create this website to host our report and User interface to result of our analysis and Visualizations.
-* Visualization: Visualization of analysis results. (3)
-We used Matplotlib python package and Orange Data Mining to plot a lot of charts to demonstrate the result of our analysis, such as scatter plot, bar charts and line charts.Instances of these can be found in the report and “README.md” of each problem.
-* Technologies: New technologies learned as part of doing the project. (3)
-A few technologies we learned and used while completing this project are Orange Data Mining, Amazon S3, Python Spark, Amazon AWS EC2, Socrata, Matplotlib, Github Pages, Kafka streaming, Parquet file format.
-Total: 20
+* Algorithmic work: Work on the algorithms needed to work with the data, including integrating data mining and machine learning techniques.(4). 
+* Bigness/parallelization: Efficiency of the analysis on a cluster, and scalability to larger data sets.(1). 
+* UI: User interface to the results, possibly including web or data exploration frontends. (2). 
+We used the Github Pages and Github CI/CD pipleine to create this website to host our report and User interface to result of our analysis and Visualizations.  
+* Visualization: Visualization of analysis results. (3). 
+We used Matplotlib python package and Orange Data Mining to plot a lot of charts to demonstrate the result of our analysis, such as scatter plot, bar charts and line charts.Instances of these can be found in the report and “README.md” of each problem.  
+* Technologies: New technologies learned as part of doing the project. (3). 
+A few technologies we learned and used while completing this project are Orange Data Mining, Amazon S3, Python Spark, Amazon AWS EC2, Socrata, Matplotlib, Github Pages, Kafka streaming, Parquet file format.  
+Total: 20. 
 
-Project Contributors: Song Lin (sla475, 301550328), Shlok Nangia (sna101, 301550257), Jialiang Guo (jga169, 301558771)
+Project Contributors: Sophia Yang (xya134, 301627219), Yingzi Yuan (yya, ), Weiwei Zhang (, ), Wenqian Yue( , ) 

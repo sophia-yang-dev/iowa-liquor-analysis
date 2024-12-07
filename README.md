@@ -7,10 +7,10 @@
 
 ## Sales Basic Info
 
-[See More Details](Sales%20Basic%20Info/Readme.md)
+[See More Details](Sales%20Basic%20Info/Readme.md#analysis-of-iowa-state-liquor-sales-data-extremes-distribution-and-correlation)
 ## Sales Trend Analysis
 
-[See More Details](SalesTrends_Analysis_README.md)
+[See More Details](SalesTrends_Analysis_README.md#salestrends_analysis)
 ## Regional Analysis
 We studied two topics regarding regional information. One is more general on the sales analysis at County level. The other is more local focusing on the local geospatial factors that could influence sales.  
 ### Topic 1: Regional Analysis on County Level

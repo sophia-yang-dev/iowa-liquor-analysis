@@ -19,12 +19,15 @@ Lastly we use bar plot to see whether the average of sales has significant diffe
 
 ## Result
 ### Influence by Local Restaurants  
+From the barchart we can see that the number of restaurants nearby has a positive influence on liquor store performance. On average, a store surrounded by more than 10 liquor stores has higher annual sales and transactions amount than a store with no restaurant at all. However, the error bar is also large for each catagory, meaning that the liquor store sales with the same neighbourhood condition varies a lot.
 
 <img src="figures/result_restaurant.png" alt="result_restaurant" width="800">.  
 ### Influence by Local Bars  
+The number of bars surrounding liquor stores also affect the yearly transactions, sales, and volumes sold in a positive way.
 
 <img src="figures/result_bar.png" alt="result_bar" width="800">.   
 ### Influence by Local Stadiums  
+There is no pattern of how local stadiums influence liquor store sales.
 
 <img src="figures/result_stadium.png" alt="result_stadium" width="800">.  
 ### Influence by Local Supermarkets  

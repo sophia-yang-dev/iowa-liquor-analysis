@@ -1,0 +1,1376 @@
+Store Name,amenity,leisure,shop,count
+1ST STOP BEVERAGE SHOP,None,None,supermarket,1
+1ST STOP BEVERAGE SHOP,None,stadium,None,1
+1ST STOP BEVERAGE SHOP,bar,None,None,2
+1ST STOP BEVERAGE SHOP,restaurant,None,None,3
+821 SQ LIQUOR / DES MOINES,None,None,supermarket,5
+821 SQ LIQUOR / DES MOINES,bar,None,None,1
+821 SQ LIQUOR / DES MOINES,restaurant,None,None,8
+ABC SMOKE / URBANDALE,restaurant,None,None,9
+ABC SMOKE / URBANDALE,pub,None,None,1
+ABC SMOKE / URBANDALE,bar,None,None,3
+ABC SMOKE / URBANDALE,None,None,supermarket,1
+ABC SMOKE / URBANDALE,cafe,None,None,2
+ADVENTURELAND / ALTOONA,restaurant,None,None,17
+ADVENTURELAND / ALTOONA,None,None,supermarket,1
+ADVENTURELAND / ALTOONA,bar,None,None,1
+ADVENTURELAND / ALTOONA,cafe,None,None,1
+ADVENTURELAND / ALTOONA,pub,None,None,2
+ADVENTURELAND INN,pub,None,None,1
+ADVENTURELAND INN,restaurant,None,None,11
+ADVENTURELAND INN,None,None,supermarket,1
+ADVENTURELAND INN,bar,None,None,1
+AFAL FOOD & LIQUOR / DES MOINES,None,None,supermarket,3
+AFAL FOOD & LIQUOR / DES MOINES,restaurant,None,None,5
+ALLCOOL LIQUORS / WDM,restaurant,None,None,5
+ALTOONA LIQUOR AND TOBACCO / ALTOONA,None,None,supermarket,1
+ALTOONA LIQUOR AND TOBACCO / ALTOONA,restaurant,None,None,1
+ANKENY WINE AND SPIRITS / ANKENY,None,None,supermarket,2
+BEST FOOD MART / DES MOINES,None,None,supermarket,3
+BEST FOOD MART / DES MOINES,restaurant,None,None,5
+BEST FOOD MART 3  LLC,restaurant,None,None,6
+BEST FOOD MART 3  LLC,cafe,None,None,4
+BEST FOOD MART 3  LLC,None,stadium,None,2
+BEST FOOD MART 3  LLC,None,None,supermarket,2
+BEST FOOD MART 3  LLC,bar,None,None,1
+BEST TRIP,None,None,supermarket,1
+BEST TRIP,None,stadium,None,1
+BEST TRIP,bar,None,None,22
+BEST TRIP,cafe,None,None,4
+BEST TRIP,pub,None,None,9
+BEST TRIP,restaurant,None,None,26
+BLIND PIG COCKTAIL BODEGA WEST DES MOINES,restaurant,None,None,12
+BLIND PIG COCKTAIL BODEGA WEST DES MOINES,pub,None,None,3
+BLIND PIG COCKTAIL BODEGA WEST DES MOINES,cafe,None,None,2
+BLIND PIG COCKTAIL BODEGA WEST DES MOINES,bar,None,None,6
+BLIND PIG COCKTAIL BODEGA WEST DES MOINES,None,None,supermarket,1
+BRAVIM MART INCORPORATED / ANKENY,None,None,supermarket,1
+BRAVIM MART INCORPORATED / ANKENY,None,stadium,None,12
+BRAVIM MART INCORPORATED / ANKENY,bar,None,None,2
+BRAVIM MART INCORPORATED / ANKENY,cafe,None,None,2
+BRAVIM MART INCORPORATED / ANKENY,pub,None,None,3
+BRAVIM MART INCORPORATED / ANKENY,restaurant,None,None,16
+BREW OIL #80 / WEST DES MOINES,restaurant,None,None,10
+BREW OIL #80 / WEST DES MOINES,pub,None,None,3
+BREW OIL #80 / WEST DES MOINES,cafe,None,None,2
+BREW OIL #80 / WEST DES MOINES,bar,None,None,4
+"BRICK STREET MARKET, LLC",cafe,None,None,1
+"BRICK STREET MARKET, LLC",pub,None,None,1
+C FRESH MARKET,cafe,None,None,1
+C FRESH MARKET,restaurant,None,None,6
+C FRESH MARKET,restaurant,None,coffee,1
+CASEY'S #3953 / DES MOINES,restaurant,None,None,8
+CASEY'S #3953 / DES MOINES,pub,None,None,2
+CASEY'S #3953 / DES MOINES,cafe,None,None,3
+CASEY'S #3953 / DES MOINES,None,stadium,None,2
+CASEY'S #3953 / DES MOINES,None,None,supermarket,3
+CASEY'S #3953 / DES MOINES,bar,None,None,1
+CASEY'S GENERAL STORE # 1861/ BONDURANT,cafe,None,None,1
+CASEY'S GENERAL STORE # 1861/ BONDURANT,pub,None,None,1
+CASEY'S GENERAL STORE # 2253/ CLIVE,pub,None,None,2
+CASEY'S GENERAL STORE # 2253/ CLIVE,None,None,supermarket,1
+CASEY'S GENERAL STORE # 2253/ CLIVE,bar,None,None,2
+CASEY'S GENERAL STORE # 2253/ CLIVE,cafe,None,None,3
+CASEY'S GENERAL STORE # 2253/ CLIVE,restaurant,None,None,5
+CASEY'S GENERAL STORE # 2783/ URBAND,restaurant,None,None,10
+CASEY'S GENERAL STORE # 2783/ URBAND,pub,None,None,1
+CASEY'S GENERAL STORE # 2783/ URBAND,None,None,supermarket,1
+CASEY'S GENERAL STORE # 2783/ URBAND,bar,None,None,4
+CASEY'S GENERAL STORE # 2783/ URBAND,cafe,None,None,2
+CASEY'S GENERAL STORE # 3507/ GRIMES,restaurant,None,None,5
+CASEY'S GENERAL STORE # 3507/ GRIMES,cafe,None,None,3
+CASEY'S GENERAL STORE # 3507/ GRIMES,restaurant,None,vacant,1
+CASEY'S GENERAL STORE # 3507/ GRIMES,None,stadium,None,1
+CASEY'S GENERAL STORE # 3507/ GRIMES,None,None,supermarket,4
+CASEY'S GENERAL STORE # 3507/ GRIMES,bar,None,None,1
+CASEY'S GENERAL STORE # 3518/ DES MOINES,restaurant,None,None,2
+CASEY'S GENERAL STORE # 3518/ DES MOINES,cafe,None,None,2
+CASEY'S GENERAL STORE #1062 / PLEASANT HILL,None,None,supermarket,1
+CASEY'S GENERAL STORE #1144 / POLK C,None,None,supermarket,1
+CASEY'S GENERAL STORE #1144 / POLK C,bar,None,None,1
+CASEY'S GENERAL STORE #1144 / POLK C,cafe,None,None,2
+CASEY'S GENERAL STORE #1144 / POLK C,pub,None,None,1
+CASEY'S GENERAL STORE #1144 / POLK C,restaurant,None,None,3
+CASEY'S GENERAL STORE #1144 / POLK CITY,restaurant,None,None,3
+CASEY'S GENERAL STORE #1144 / POLK CITY,cafe,None,None,2
+CASEY'S GENERAL STORE #1144 / POLK CITY,pub,None,None,1
+CASEY'S GENERAL STORE #1144 / POLK CITY,None,None,supermarket,1
+CASEY'S GENERAL STORE #1144 / POLK CITY,bar,None,None,1
+CASEY'S GENERAL STORE #1373 / BONDURANT,cafe,None,None,1
+CASEY'S GENERAL STORE #1373 / BONDURANT,pub,None,None,1
+CASEY'S GENERAL STORE #1373 / BONDURANT,restaurant,None,None,1
+CASEY'S GENERAL STORE #1548 / ANKENY,bar,None,None,1
+CASEY'S GENERAL STORE #1548 / ANKENY,pub,None,None,1
+CASEY'S GENERAL STORE #1548 / ANKENY,restaurant,None,None,1
+CASEY'S GENERAL STORE #1659 / ANKENY,pub,None,None,4
+CASEY'S GENERAL STORE #1659 / ANKENY,restaurant,None,None,14
+CASEY'S GENERAL STORE #1659 / ANKENY,cafe,None,None,2
+CASEY'S GENERAL STORE #1659 / ANKENY,bar,None,None,2
+CASEY'S GENERAL STORE #1659 / ANKENY,None,stadium,None,10
+CASEY'S GENERAL STORE #1659 / ANKENY,None,None,supermarket,1
+CASEY'S GENERAL STORE #1910 / JOHNSTON,None,None,supermarket,2
+CASEY'S GENERAL STORE #1910 / JOHNSTON,None,stadium,None,1
+CASEY'S GENERAL STORE #1910 / JOHNSTON,bar,None,None,1
+CASEY'S GENERAL STORE #1910 / JOHNSTON,cafe,None,None,1
+CASEY'S GENERAL STORE #1910 / JOHNSTON,pub,None,None,2
+CASEY'S GENERAL STORE #1910 / JOHNSTON,restaurant,None,None,6
+CASEY'S GENERAL STORE #1938 / ALTOONA,restaurant,None,None,9
+CASEY'S GENERAL STORE #1938 / ALTOONA,pub,None,None,2
+CASEY'S GENERAL STORE #1938 / ALTOONA,None,None,supermarket,1
+CASEY'S GENERAL STORE #1938 / ALTOONA,bar,None,None,1
+CASEY'S GENERAL STORE #1938 / ALTOONA,cafe,None,None,1
+CASEY'S GENERAL STORE #1941 / ANKENY,None,None,supermarket,1
+CASEY'S GENERAL STORE #1941 / ANKENY,cafe,None,None,4
+CASEY'S GENERAL STORE #1941 / ANKENY,restaurant,None,None,15
+CASEY'S GENERAL STORE #2099 / CLIVE,restaurant,None,None,2
+CASEY'S GENERAL STORE #2150 / WDM,pub,None,None,1
+CASEY'S GENERAL STORE #2150 / WDM,restaurant,None,None,5
+CASEY'S GENERAL STORE #2150 / WDM,None,None,supermarket,1
+CASEY'S GENERAL STORE #2150 / WDM,cafe,None,None,2
+CASEY'S GENERAL STORE #2164 / ANKENY,None,None,supermarket,2
+CASEY'S GENERAL STORE #2164 / ANKENY,pub,None,None,1
+CASEY'S GENERAL STORE #2164 / ANKENY,restaurant,None,None,5
+CASEY'S GENERAL STORE #2297 / WDM,None,None,supermarket,1
+CASEY'S GENERAL STORE #2297 / WDM,bar,None,None,5
+CASEY'S GENERAL STORE #2297 / WDM,cafe,None,None,3
+CASEY'S GENERAL STORE #2297 / WDM,pub,None,None,1
+CASEY'S GENERAL STORE #2297 / WDM,restaurant,None,None,14
+CASEY'S GENERAL STORE #2364 / URBANDALE,restaurant,None,None,2
+CASEY'S GENERAL STORE #2392,pub,None,None,2
+CASEY'S GENERAL STORE #2392,restaurant,None,None,7
+CASEY'S GENERAL STORE #2392,bar,None,None,1
+CASEY'S GENERAL STORE #2392 / JOHNSTON,bar,None,None,1
+CASEY'S GENERAL STORE #2392 / JOHNSTON,pub,None,None,2
+CASEY'S GENERAL STORE #2392 / JOHNSTON,restaurant,None,None,7
+CASEY'S GENERAL STORE #2406 / PLEASANT HILL,None,None,supermarket,1
+CASEY'S GENERAL STORE #2406 / PLEASANT HILL,cafe,None,None,1
+CASEY'S GENERAL STORE #2520 / GRIMES,None,None,supermarket,2
+CASEY'S GENERAL STORE #2520 / GRIMES,restaurant,None,None,5
+CASEY'S GENERAL STORE #2635 / JOHNSTON,cafe,None,None,1
+CASEY'S GENERAL STORE #2635 / JOHNSTON,None,stadium,None,1
+CASEY'S GENERAL STORE #2635 / JOHNSTON,bar,None,None,2
+CASEY'S GENERAL STORE #2689 / ANKENY,None,stadium,None,12
+CASEY'S GENERAL STORE #2689 / ANKENY,restaurant,None,None,4
+CASEY'S GENERAL STORE #2785 / ANKENY,None,stadium,None,1
+CASEY'S GENERAL STORE #2785 / ANKENY,bar,None,None,3
+CASEY'S GENERAL STORE #2785 / ANKENY,pub,None,None,2
+CASEY'S GENERAL STORE #2785 / ANKENY,restaurant,None,None,5
+CASEY'S GENERAL STORE #2896 / ANKENY,cafe,None,None,3
+CASEY'S GENERAL STORE #2896 / ANKENY,None,None,supermarket,1
+CASEY'S GENERAL STORE #2896 / ANKENY,restaurant,None,None,13
+CASEY'S GENERAL STORE #2916 / ALTOONA,restaurant,None,None,15
+CASEY'S GENERAL STORE #2916 / ALTOONA,pub,None,None,2
+CASEY'S GENERAL STORE #2916 / ALTOONA,None,None,supermarket,1
+CASEY'S GENERAL STORE #2916 / ALTOONA,bar,None,None,1
+CASEY'S GENERAL STORE #2916 / ALTOONA,cafe,None,None,1
+CASEY'S GENERAL STORE #2920 / ANKENY,cafe,None,None,4
+CASEY'S GENERAL STORE #2920 / ANKENY,None,None,supermarket,1
+CASEY'S GENERAL STORE #2920 / ANKENY,restaurant,None,None,15
+CASEY'S GENERAL STORE #2923 / WDM,restaurant,None,None,16
+CASEY'S GENERAL STORE #2923 / WDM,restaurant,amusement_arcade,None,1
+CASEY'S GENERAL STORE #2923 / WDM,pub,None,None,4
+CASEY'S GENERAL STORE #2923 / WDM,cafe,None,None,6
+CASEY'S GENERAL STORE #2923 / WDM,bar,None,None,4
+CASEY'S GENERAL STORE #2923 / WDM,None,None,supermarket,1
+CASEY'S GENERAL STORE #3075 / ANKENY,pub,None,None,1
+CASEY'S GENERAL STORE #3075 / ANKENY,restaurant,None,None,1
+CASEY'S GENERAL STORE #3098 / WDM,None,None,supermarket,1
+CASEY'S GENERAL STORE #3098 / WDM,bar,None,None,4
+CASEY'S GENERAL STORE #3098 / WDM,cafe,None,None,2
+CASEY'S GENERAL STORE #3098 / WDM,pub,None,None,3
+CASEY'S GENERAL STORE #3098 / WDM,restaurant,None,None,12
+CASEY'S GENERAL STORE #3210 / URBAND,pub,None,None,1
+CASEY'S GENERAL STORE #3210 / URBANDALE,pub,None,None,1
+CASEY'S GENERAL STORE #3244 / URBAND,restaurant,None,None,6
+CASEY'S GENERAL STORE #3244 / URBANDALE,restaurant,None,None,6
+CASEY'S GENERAL STORE #3333 / PLEASANT HILL,None,None,supermarket,1
+CASEY'S GENERAL STORE #3606,bar,None,None,2
+CASEY'S GENERAL STORE #3606,cafe,None,None,1
+CASEY'S GENERAL STORE #3606,restaurant,None,None,2
+CASEY'S GENERAL STORE #3718 / PLEASANT HILL,None,stadium,None,1
+CASEY'S GENERAL STORE #3888 / ANKENY,pub,None,None,1
+CASEY'S GENERAL STORE #3888 / ANKENY,restaurant,None,None,5
+CASEY'S GENERAL STORE #3932 / URBANDALE,cafe,None,None,1
+CASEY'S GENERAL STORE #4 / DES MOINES,restaurant,None,None,1
+CASEY'S GENERAL STORE #6 / ALTOONA,restaurant,None,None,1
+CASEY'S GENERAL STORE #6 / ALTOONA,None,None,supermarket,2
+CASH SAVER  /  E EUCLID AVE,None,None,supermarket,4
+CASH SAVER  /  E EUCLID AVE,restaurant,None,None,7
+CASH SAVER  /  FLEUR,None,None,supermarket,3
+CASH SAVER  /  FLEUR,cafe,None,None,2
+CASH SAVER  /  FLEUR,pub,None,None,1
+CASH SAVER  /  FLEUR,restaurant,None,None,6
+CASH SAVER #33 / DES MOINES,None,None,supermarket,4
+CASH SAVER #33 / DES MOINES,restaurant,None,None,7
+CASH SAVER #34 / DES MOINES,restaurant,None,None,6
+CASH SAVER #34 / DES MOINES,pub,None,None,1
+CASH SAVER #34 / DES MOINES,None,None,supermarket,3
+CASH SAVER #34 / DES MOINES,cafe,None,None,2
+CENTRAL CITY 2,None,None,supermarket,1
+CENTRAL CITY 2,restaurant,None,None,4
+CENTRAL CITY 2,restaurant,None,coffee,1
+"CENTRAL CITY LIQUOR, INC.",None,None,supermarket,1
+"CENTRAL CITY LIQUOR, INC.",restaurant,None,None,4
+"CENTRAL CITY LIQUOR, INC.",restaurant,None,coffee,1
+CHAMLING SMOKE & LIQUOR / ANKENY,pub,None,None,4
+CHAMLING SMOKE & LIQUOR / ANKENY,restaurant,None,None,14
+CHAMLING SMOKE & LIQUOR / ANKENY,cafe,None,None,2
+CHAMLING SMOKE & LIQUOR / ANKENY,None,None,supermarket,1
+CHAMLING SMOKE & LIQUOR / ANKENY,None,stadium,None,11
+CHAMLING SMOKE & LIQUOR / ANKENY,bar,None,None,3
+CIRCLE K / WDM,None,stadium,None,1
+CIRCLE K / WDM,cafe,None,None,1
+CITY SMOKE SHOP / JOHNSTON,pub,None,None,2
+CITY SMOKE SHOP / JOHNSTON,cafe,None,None,1
+CITY SMOKE SHOP / JOHNSTON,restaurant,None,None,9
+CITY SMOKE SHOP / JOHNSTON,None,stadium,None,1
+CITY SMOKE SHOP / JOHNSTON,None,None,supermarket,2
+CITY SMOKE SHOP / JOHNSTON,bar,None,None,1
+CVS / PHARMACY #10161 / DES MOINES,bar,None,None,1
+CVS / PHARMACY #10161 / DES MOINES,restaurant,None,None,7
+CVS / PHARMACY #10161 / DES MOINES,None,None,supermarket,5
+CVS PHARMACY #10162 / DES MOINES,None,None,supermarket,1
+CVS PHARMACY #10162 / DES MOINES,restaurant,None,None,4
+CVS PHARMACY #10329 / MERLE HAY,bar,None,None,1
+CVS PHARMACY #10329 / MERLE HAY,restaurant,None,None,3
+DAHL'S / ANKENY,pub,None,None,2
+DAHL'S / ANKENY,restaurant,None,None,10
+DAHL'S / ANKENY,cafe,None,None,1
+DAHL'S / ANKENY,None,None,supermarket,3
+DAHL'S / ANKENY,None,stadium,None,12
+DAHL'S / BEAVER,None,None,supermarket,2
+DAHL'S / BEAVER,bar,None,None,2
+DAHL'S / BEAVER,cafe,None,None,3
+DAHL'S / BEAVER,pub,None,None,5
+DAHL'S / BEAVER,restaurant,None,None,15
+DAHL'S / E. EUCLID,None,None,supermarket,4
+DAHL'S / E. EUCLID,restaurant,None,None,7
+DAHL'S / EP TRUE / WDM,restaurant,None,None,6
+DAHL'S / EP TRUE / WDM,pub,None,None,3
+DAHL'S / EP TRUE / WDM,None,None,supermarket,1
+DAHL'S / EP TRUE / WDM,bar,None,None,1
+DAHL'S / EP TRUE / WDM,cafe,None,None,2
+DAHL'S / FLEUR DR,None,None,supermarket,3
+DAHL'S / FLEUR DR,cafe,None,None,2
+DAHL'S / FLEUR DR,pub,None,None,1
+DAHL'S / FLEUR DR,restaurant,None,None,6
+DAHL'S / HICKMAN,restaurant,None,None,11
+DAHL'S / HICKMAN,pub,None,None,3
+DAHL'S / HICKMAN,None,None,supermarket,1
+DAHL'S / HICKMAN,bar,None,None,7
+DAHL'S / INGERSOLL,None,None,supermarket,1
+DAHL'S / INGERSOLL,bar,None,None,6
+DAHL'S / INGERSOLL,cafe,None,None,4
+DAHL'S / INGERSOLL,pub,None,None,2
+DAHL'S / INGERSOLL,restaurant,None,None,14
+DAHL'S / JOHNSTON,restaurant,None,None,11
+DAHL'S / JOHNSTON,bar,None,None,4
+DAHL'S / JOHNSTON,cafe,None,None,1
+DAHL'S / JOHNSTON,pub,None,None,1
+DAHL'S / MERLE HAY,None,None,supermarket,1
+DAHL'S / MERLE HAY,bar,None,None,5
+DAHL'S / MERLE HAY,cafe,None,None,4
+DAHL'S / MERLE HAY,restaurant,None,None,17
+DAHL'S / WDM,cafe,None,None,4
+DAHL'S / WDM,pub,None,None,3
+DAHL'S / WDM,None,None,supermarket,2
+DAHL'S / WDM,restaurant,None,None,15
+DAHL'S / WDM,bar,None,None,5
+DASHMART / URBANDALE,pub,None,None,1
+DASHMART / URBANDALE,restaurant,None,None,4
+DASHMART / URBANDALE,bar,None,None,1
+DEHNER DISTILLERY,None,None,supermarket,3
+DEHNER DISTILLERY,bar,None,None,3
+DEHNER DISTILLERY,cafe,None,None,3
+DEHNER DISTILLERY,pub,None,None,1
+DEHNER DISTILLERY,restaurant,None,None,9
+DEHNER DISTILLERY,restaurant,amusement_arcade,None,1
+DOWNTOWN PANTRY,None,None,supermarket,2
+DOWNTOWN PANTRY,None,stadium,None,1
+DOWNTOWN PANTRY,bar,None,None,35
+DOWNTOWN PANTRY,cafe,None,None,13
+DOWNTOWN PANTRY,pub,None,None,11
+DOWNTOWN PANTRY,restaurant,None,None,55
+DOWNTOWN PANTRY / DES MOINES,pub,None,None,11
+DOWNTOWN PANTRY / DES MOINES,cafe,None,None,12
+DOWNTOWN PANTRY / DES MOINES,restaurant,None,None,54
+DOWNTOWN PANTRY / DES MOINES,None,stadium,None,1
+DOWNTOWN PANTRY / DES MOINES,None,None,supermarket,2
+DOWNTOWN PANTRY / DES MOINES,bar,None,None,34
+EAST VILLAGE PANTRY,restaurant,None,coffee,1
+EAST VILLAGE PANTRY,restaurant,None,None,51
+EAST VILLAGE PANTRY,pub,None,None,10
+EAST VILLAGE PANTRY,None,None,supermarket,3
+EAST VILLAGE PANTRY,bar,None,None,31
+EAST VILLAGE PANTRY,None,stadium,None,1
+EAST VILLAGE PANTRY,cafe,None,None,8
+EASYGO,None,None,supermarket,2
+EASYGO,bar,None,None,10
+EASYGO,cafe,None,None,7
+EASYGO,pub,None,None,3
+EASYGO,restaurant,None,None,15
+EASYGO LIQUOR / WEST DES MOINES,restaurant,None,None,14
+EASYGO LIQUOR / WEST DES MOINES,pub,None,None,3
+EASYGO LIQUOR / WEST DES MOINES,bar,None,None,6
+EASYGO LIQUOR / WEST DES MOINES,None,None,supermarket,1
+EASYGO LIQUOR / WEST DES MOINES,cafe,None,None,2
+EZ MART / BONDURANT,cafe,None,None,1
+EZ MART / BONDURANT,pub,None,None,1
+FAMILY PANTRY,restaurant,None,None,2
+FAREWAY STORE # 167/JOHNSTON,restaurant,None,None,8
+FAREWAY STORE # 167/JOHNSTON,pub,None,None,2
+FAREWAY STORE # 167/JOHNSTON,cafe,None,None,1
+FAREWAY STORE # 167/JOHNSTON,None,stadium,None,1
+FAREWAY STORE # 167/JOHNSTON,None,None,supermarket,2
+FAREWAY STORE # 167/JOHNSTON,bar,None,None,1
+FAREWAY STORES #061 / ANKENY,None,None,supermarket,2
+FAREWAY STORES #061 / ANKENY,pub,None,None,1
+FAREWAY STORES #061 / ANKENY,restaurant,None,None,7
+FAREWAY STORES #106 / CLIVE,None,None,supermarket,4
+FAREWAY STORES #106 / CLIVE,bar,None,None,2
+FAREWAY STORES #106 / CLIVE,cafe,None,None,6
+FAREWAY STORES #106 / CLIVE,pub,None,None,4
+FAREWAY STORES #106 / CLIVE,restaurant,None,None,19
+FAREWAY STORES #137 / POLK CITY,restaurant,None,None,3
+FAREWAY STORES #137 / POLK CITY,None,None,supermarket,1
+FAREWAY STORES #137 / POLK CITY,bar,None,None,1
+FAREWAY STORES #137 / POLK CITY,cafe,None,None,2
+FAREWAY STORES #137 / POLK CITY,pub,None,None,1
+FAREWAY STORES #138 / PLEASANT HILL,None,None,supermarket,1
+FAREWAY STORES #153  /  W DES MOINES,restaurant,None,None,14
+FAREWAY STORES #153  /  W DES MOINES,cafe,None,None,2
+FAREWAY STORES #153  /  W DES MOINES,pub,None,None,3
+FAREWAY STORES #153  /  W DES MOINES,bar,None,None,6
+FAREWAY STORES #153  /  W DES MOINES,None,None,supermarket,1
+FAREWAY STORES #167/JOHNSTON,None,None,supermarket,2
+FAREWAY STORES #167/JOHNSTON,None,stadium,None,1
+FAREWAY STORES #167/JOHNSTON,bar,None,None,1
+FAREWAY STORES #167/JOHNSTON,cafe,None,None,1
+FAREWAY STORES #167/JOHNSTON,pub,None,None,2
+FAREWAY STORES #167/JOHNSTON,restaurant,None,None,8
+FAREWAY STORES #183 / FLEUR,restaurant,None,None,7
+FAREWAY STORES #183 / FLEUR,pub,None,None,1
+FAREWAY STORES #183 / FLEUR,cafe,None,None,3
+FAREWAY STORES #183 / FLEUR,None,None,supermarket,3
+FAREWAY STORES #900 / EUCLID,None,None,supermarket,3
+FAREWAY STORES #900 / EUCLID,bar,None,None,1
+FAREWAY STORES #900 / EUCLID,restaurant,None,None,6
+FAREWAY STORES #909 / ANKENY,None,None,supermarket,2
+FAREWAY STORES #909 / ANKENY,cafe,None,None,3
+FAREWAY STORES #909 / ANKENY,pub,None,None,2
+FAREWAY STORES #909 / ANKENY,restaurant,None,None,8
+FAREWAY STORES #925 / ALTOONA,restaurant,None,None,1
+FAREWAY STORES #925 / ALTOONA,None,None,supermarket,2
+FAREWAY STORES #933 / URBANDALE,None,None,supermarket,1
+FAREWAY STORES #933 / URBANDALE,bar,None,None,3
+FAREWAY STORES #933 / URBANDALE,cafe,None,None,2
+FAREWAY STORES #933 / URBANDALE,pub,None,None,1
+FAREWAY STORES #933 / URBANDALE,restaurant,None,None,10
+FAREWAY STORES #975 / SE 22ND / DSM,None,None,supermarket,2
+FAREWAY STORES #983 / GRIMES,cafe,None,None,2
+FAREWAY STORES #983 / GRIMES,None,None,supermarket,4
+FAREWAY STORES #983 / GRIMES,restaurant,None,None,6
+FAREWAY STORES #983 / GRIMES,restaurant,None,vacant,1
+"FAREWAY STORES, INC. #225 / DES MOINES",None,None,supermarket,2
+"FAREWAY STORES, INC. #225 / DES MOINES",bar,None,None,1
+"FAREWAY STORES, INC. #225 / DES MOINES",cafe,None,None,1
+"FAREWAY STORES, INC. #225 / DES MOINES",pub,None,None,4
+"FAREWAY STORES, INC. #225 / DES MOINES",restaurant,None,None,10
+"FAREWAY STORES, INC. #236 / BONDURANT",cafe,None,None,1
+"FAREWAY STORES, INC. #236 / BONDURANT",pub,None,None,1
+FAST MART,pub,None,None,1
+FAST MART,restaurant,None,None,19
+FAST MART,cafe,None,None,3
+FAST MART,bar,None,None,12
+FAST MART,None,stadium,None,1
+FAST MART,None,None,supermarket,4
+FAST MART / UNIVERSITY AVE,None,None,supermarket,2
+FAST MART / UNIVERSITY AVE,None,stadium,None,2
+FAST MART / UNIVERSITY AVE,bar,None,None,1
+FAST MART / UNIVERSITY AVE,cafe,None,None,4
+FAST MART / UNIVERSITY AVE,restaurant,None,None,6
+"FAST MART 2, LLC",restaurant,None,None,4
+"FAST MART 2, LLC",pub,None,None,1
+"FAST MART 2, LLC",None,None,supermarket,1
+"FAST MART 2, LLC",cafe,None,None,2
+FAST TRIP / DES MOINES,None,None,supermarket,1
+FAST TRIP / DES MOINES,None,stadium,None,1
+FAST TRIP / DES MOINES,bar,None,None,22
+FAST TRIP / DES MOINES,cafe,None,None,4
+FAST TRIP / DES MOINES,pub,None,None,9
+FAST TRIP / DES MOINES,restaurant,None,None,26
+FASTMART,restaurant,None,None,6
+FASTMART,cafe,None,None,4
+FASTMART,bar,None,None,1
+FASTMART,None,stadium,None,2
+FASTMART,None,None,supermarket,2
+FIRST STOP BEVERAGE SHOP,None,None,supermarket,1
+FIRST STOP BEVERAGE SHOP,None,stadium,None,1
+FIRST STOP BEVERAGE SHOP,bar,None,None,2
+FIRST STOP BEVERAGE SHOP,restaurant,None,None,3
+FLASHMART #101 / WDM,None,stadium,None,1
+FLASHMART #101 / WDM,cafe,None,None,1
+FOREST MARKET CONVENIENCE,restaurant,None,None,6
+FOREST MARKET CONVENIENCE,cafe,None,None,3
+FOREST MARKET CONVENIENCE,None,stadium,None,2
+FOREST MARKET CONVENIENCE,None,None,supermarket,2
+FOREST MARKET CONVENIENCE,bar,None,None,1
+FOUNDRY DISTILLING COMPANY,restaurant,None,None,15
+FOUNDRY DISTILLING COMPANY,None,None,supermarket,1
+FOUNDRY DISTILLING COMPANY,bar,None,None,5
+FOUNDRY DISTILLING COMPANY,cafe,None,None,4
+FOUNDRY DISTILLING COMPANY,pub,None,None,2
+FOUNDRY DISTILLING COMPANY (ET),cafe,None,None,4
+FOUNDRY DISTILLING COMPANY (ET),pub,None,None,1
+FOUNDRY DISTILLING COMPANY (ET),None,None,supermarket,1
+FOUNDRY DISTILLING COMPANY (ET),bar,None,None,5
+FOUNDRY DISTILLING COMPANY (ET),restaurant,None,None,15
+GIT-N-GO #47 / ALTOONA,restaurant,None,None,1
+GIT-N-GO #47 / ALTOONA,None,None,supermarket,2
+GRIMES LIQUOR SHOP / GRIMES,cafe,None,None,2
+GRIMES LIQUOR SHOP / GRIMES,restaurant,None,None,2
+GS SUPER STOP,None,None,supermarket,1
+GS SUPER STOP,bar,None,None,1
+GS SUPER STOP,cafe,None,None,1
+GS SUPER STOP,pub,None,None,2
+GS SUPER STOP,restaurant,None,None,10
+H & A MINI MART,restaurant,None,coffee,1
+H & A MINI MART,restaurant,None,None,20
+H & A MINI MART,pub,None,None,1
+H & A MINI MART,None,None,supermarket,2
+H & A MINI MART,bar,None,None,11
+H & A MINI MART,cafe,None,None,5
+H AND A MINI MART / PHILLIPS 66,restaurant,None,None,3
+H AND A MINI MART / PHILLIPS 66,None,None,supermarket,1
+H AND A MINI MART / PHILLIPS 66,cafe,None,None,3
+H AND A MINI MART /BP,cafe,None,None,3
+H AND A MINI MART /BP,restaurant,None,None,3
+H AND A MINI MART /BP,None,None,supermarket,1
+H AND A MINI MART CORP,None,None,supermarket,2
+H AND A MINI MART CORP,bar,None,None,11
+H AND A MINI MART CORP,cafe,None,None,5
+H AND A MINI MART CORP,pub,None,None,1
+H AND A MINI MART CORP,restaurant,None,None,20
+H AND A MINI MART CORP,restaurant,None,coffee,1
+HAWKEYE PANTRY,cafe,None,None,13
+HAWKEYE PANTRY,restaurant,None,None,55
+HAWKEYE PANTRY,pub,None,None,11
+HAWKEYE PANTRY,None,stadium,None,1
+HAWKEYE PANTRY,None,None,supermarket,2
+HAWKEYE PANTRY,bar,None,None,35
+HY-VEE,pub,None,None,2
+HY-VEE,None,None,supermarket,2
+HY-VEE,bar,None,None,1
+HY-VEE,cafe,None,None,1
+HY-VEE,restaurant,None,None,11
+HY-VEE # 6/ DES MOINES,pub,None,None,11
+HY-VEE # 6/ DES MOINES,restaurant,None,None,54
+HY-VEE # 6/ DES MOINES,cafe,None,None,13
+HY-VEE # 6/ DES MOINES,bar,None,None,35
+HY-VEE # 6/ DES MOINES,None,stadium,None,1
+HY-VEE # 6/ DES MOINES,None,None,supermarket,2
+HY-VEE #2,None,None,supermarket,1
+HY-VEE #2,bar,None,None,2
+HY-VEE #2,cafe,None,None,3
+HY-VEE #2,pub,None,None,1
+HY-VEE #2,restaurant,None,None,11
+HY-VEE #2 / ANKENY,None,None,supermarket,1
+HY-VEE #2 / ANKENY,bar,None,None,2
+HY-VEE #2 / ANKENY,cafe,None,None,3
+HY-VEE #2 / ANKENY,pub,None,None,1
+HY-VEE #2 / ANKENY,restaurant,None,None,11
+HY-VEE #3 / BDI / DES MOINES,None,None,supermarket,1
+HY-VEE #3 / BDI / DES MOINES,restaurant,None,None,4
+HY-VEE #4 / WDM,pub,None,None,4
+HY-VEE #4 / WDM,cafe,None,None,5
+HY-VEE #4 / WDM,restaurant,None,None,11
+HY-VEE #4 / WDM,None,stadium,None,1
+HY-VEE #4 / WDM,None,None,supermarket,1
+HY-VEE #4 / WDM,bar,None,None,4
+HY-VEE (1530) / PLEASANT HILL,None,None,supermarket,1
+HY-VEE (1530) / PLEASANT HILL,cafe,None,None,1
+HY-VEE / GRIMES,None,None,supermarket,4
+HY-VEE / GRIMES,bar,None,None,1
+HY-VEE / GRIMES,cafe,None,None,3
+HY-VEE / GRIMES,restaurant,None,None,6
+HY-VEE / GRIMES,restaurant,None,vacant,1
+HY-VEE / PLEASANT HILL,cafe,None,None,1
+HY-VEE / PLEASANT HILL,None,None,supermarket,1
+HY-VEE / URBANDALE,None,None,supermarket,2
+HY-VEE / URBANDALE,bar,None,None,1
+HY-VEE / URBANDALE,cafe,None,None,1
+HY-VEE / URBANDALE,pub,None,None,2
+HY-VEE / URBANDALE,restaurant,None,None,11
+HY-VEE / WINDSOR HEIGHTS,None,None,supermarket,3
+HY-VEE / WINDSOR HEIGHTS,bar,None,None,3
+HY-VEE / WINDSOR HEIGHTS,cafe,None,None,2
+HY-VEE / WINDSOR HEIGHTS,pub,None,None,1
+HY-VEE / WINDSOR HEIGHTS,restaurant,None,None,5
+HY-VEE C-STORE #2 - ANKENY,pub,None,None,1
+HY-VEE C-STORE #2 - ANKENY,cafe,None,None,3
+HY-VEE C-STORE #2 - ANKENY,restaurant,None,None,11
+HY-VEE C-STORE #2 - ANKENY,None,None,supermarket,1
+HY-VEE C-STORE #2 - ANKENY,bar,None,None,2
+HY-VEE C-STORE - DOUGLAS,restaurant,None,None,12
+HY-VEE C-STORE - DOUGLAS,pub,None,None,2
+HY-VEE C-STORE - DOUGLAS,None,None,supermarket,2
+HY-VEE C-STORE - DOUGLAS,bar,None,None,1
+HY-VEE C-STORE - DOUGLAS,cafe,None,None,1
+HY-VEE C-STORE / SE ARMY POST,None,None,supermarket,4
+HY-VEE C-STORE / SE ARMY POST,cafe,None,None,1
+HY-VEE C-STORE / SE ARMY POST,restaurant,None,None,6
+HY-VEE C-STRORE - DOUGLAS,restaurant,None,None,12
+HY-VEE C-STRORE - DOUGLAS,cafe,None,None,1
+HY-VEE C-STRORE - DOUGLAS,pub,None,None,2
+HY-VEE C-STRORE - DOUGLAS,None,None,supermarket,2
+HY-VEE C-STRORE - DOUGLAS,bar,None,None,1
+HY-VEE DRUGSTORE #2 / WDM,restaurant,None,None,5
+HY-VEE DRUGSTORE / ANKENY,None,None,supermarket,1
+HY-VEE DRUGSTORE / ANKENY,bar,None,None,2
+HY-VEE DRUGSTORE / ANKENY,cafe,None,None,1
+HY-VEE DRUGSTORE / ANKENY,pub,None,None,3
+HY-VEE DRUGSTORE / ANKENY,restaurant,None,None,11
+HY-VEE DRUGSTORE / UNIVERSITY / DSM,restaurant,None,None,8
+HY-VEE DRUGSTORE / UNIVERSITY / DSM,cafe,None,None,2
+HY-VEE DRUGSTORE / UNIVERSITY / DSM,pub,None,None,2
+HY-VEE DRUGSTORE / UNIVERSITY / DSM,None,None,supermarket,1
+HY-VEE DRUGSTORE / UNIVERSITY / DSM,bar,None,None,2
+HY-VEE DRUGTOWN / URBANDALE,None,None,supermarket,2
+HY-VEE DRUGTOWN / URBANDALE,bar,None,None,2
+HY-VEE DRUGTOWN / URBANDALE,cafe,None,None,1
+HY-VEE DRUGTOWN / URBANDALE,pub,None,None,2
+HY-VEE DRUGTOWN / URBANDALE,restaurant,None,None,11
+HY-VEE FAST & FRESH - DES MOINES,bar,None,None,1
+HY-VEE FAST & FRESH - DES MOINES,restaurant,None,None,3
+HY-VEE FAST & FRESH / ALTOONA,restaurant,None,None,1
+HY-VEE FAST & FRESH / ALTOONA,None,None,supermarket,2
+HY-VEE FAST AND FRESH #2 / GRIMES,cafe,None,None,2
+HY-VEE FAST AND FRESH #2 / GRIMES,restaurant,None,None,2
+HY-VEE FAST AND FRESH #3 (7592) / WEST DES MOINES,None,None,supermarket,1
+HY-VEE FAST AND FRESH #3 (7592) / WEST DES MOINES,bar,None,None,6
+HY-VEE FAST AND FRESH #3 (7592) / WEST DES MOINES,cafe,None,None,2
+HY-VEE FAST AND FRESH #3 (7592) / WEST DES MOINES,pub,None,None,3
+HY-VEE FAST AND FRESH #3 (7592) / WEST DES MOINES,restaurant,None,None,14
+HY-VEE FAST AND FRESH #3 / URBANDALE,pub,None,None,1
+HY-VEE FAST AND FRESH #3 / WEST DES MOINES,restaurant,None,None,14
+HY-VEE FAST AND FRESH #3 / WEST DES MOINES,pub,None,None,3
+HY-VEE FAST AND FRESH #3 / WEST DES MOINES,cafe,None,None,2
+HY-VEE FAST AND FRESH #3 / WEST DES MOINES,bar,None,None,6
+HY-VEE FAST AND FRESH #3 / WEST DES MOINES,None,None,supermarket,1
+HY-VEE FAST AND FRESH #4 / URBANDALE,cafe,None,None,1
+HY-VEE FAST AND FRESH - URBANDALE,None,None,supermarket,1
+HY-VEE FAST AND FRESH - URBANDALE,cafe,None,None,1
+HY-VEE FAST AND FRESH - URBANDALE,pub,None,None,1
+HY-VEE FAST AND FRESH - URBANDALE,restaurant,None,None,3
+HY-VEE FAST AND FRESH - WINDSOR HEIGHTS,pub,None,None,2
+HY-VEE FAST AND FRESH - WINDSOR HEIGHTS,restaurant,None,None,4
+HY-VEE FAST AND FRESH - WINDSOR HEIGHTS,bar,None,None,3
+HY-VEE FAST AND FRESH / CLIVE,bar,None,None,1
+HY-VEE FAST AND FRESH / CLIVE,cafe,None,None,2
+HY-VEE FAST AND FRESH / CLIVE,pub,None,None,2
+HY-VEE FAST AND FRESH / CLIVE,restaurant,None,None,21
+HY-VEE FAST AND FRESH / GRIMES,None,None,supermarket,4
+HY-VEE FAST AND FRESH / GRIMES,cafe,None,None,2
+HY-VEE FAST AND FRESH / GRIMES,restaurant,None,None,6
+HY-VEE FAST AND FRESH / GRIMES,restaurant,None,vacant,1
+HY-VEE FAST AND FRESH / JOHNSTON,restaurant,None,None,9
+HY-VEE FAST AND FRESH / JOHNSTON,pub,None,None,2
+HY-VEE FAST AND FRESH / JOHNSTON,bar,None,None,1
+HY-VEE FAST AND FRESH / JOHNSTON,None,None,supermarket,1
+HY-VEE FAST AND FRESH / JOHNSTON,cafe,None,None,1
+HY-VEE FOOD AND DRUG (1888) / GRAND / WDM,None,None,supermarket,1
+HY-VEE FOOD AND DRUG (1888) / GRAND / WDM,bar,None,None,2
+HY-VEE FOOD AND DRUG (1888) / GRAND / WDM,cafe,None,None,2
+HY-VEE FOOD AND DRUG (1888) / GRAND / WDM,pub,None,None,1
+HY-VEE FOOD AND DRUG (1888) / GRAND / WDM,restaurant,None,None,7
+HY-VEE FOOD AND DRUG / GRAND / WDM,cafe,None,None,2
+HY-VEE FOOD AND DRUG / GRAND / WDM,restaurant,None,None,7
+HY-VEE FOOD AND DRUG / GRAND / WDM,pub,None,None,1
+HY-VEE FOOD AND DRUG / GRAND / WDM,bar,None,None,2
+HY-VEE FOOD AND DRUG / GRAND / WDM,None,None,supermarket,1
+HY-VEE FOOD STORE #1 (1887) / WDM,None,None,supermarket,4
+HY-VEE FOOD STORE #1 (1887) / WDM,bar,None,None,3
+HY-VEE FOOD STORE #1 (1887) / WDM,cafe,None,None,7
+HY-VEE FOOD STORE #1 (1887) / WDM,pub,None,None,4
+HY-VEE FOOD STORE #1 (1887) / WDM,restaurant,None,None,20
+HY-VEE FOOD STORE #1 / WDM,pub,None,None,4
+HY-VEE FOOD STORE #1 / WDM,cafe,None,None,6
+HY-VEE FOOD STORE #1 / WDM,restaurant,None,None,20
+HY-VEE FOOD STORE #1 / WDM,None,None,supermarket,4
+HY-VEE FOOD STORE #1 / WDM,bar,None,None,2
+HY-VEE FOOD STORE #2 (1138) / DES MOINES,None,None,supermarket,1
+HY-VEE FOOD STORE #2 (1138) / DES MOINES,restaurant,None,None,1
+HY-VEE FOOD STORE #2 / DES MOINES,None,None,supermarket,1
+HY-VEE FOOD STORE #2 / DES MOINES,restaurant,None,None,1
+HY-VEE FOOD STORE #2 / STATE ANKENY,pub,None,None,1
+HY-VEE FOOD STORE #2 / STATE ANKENY,cafe,None,None,3
+HY-VEE FOOD STORE #2 / STATE ANKENY,restaurant,None,None,11
+HY-VEE FOOD STORE #2 / STATE ANKENY,None,None,supermarket,1
+HY-VEE FOOD STORE #2 / STATE ANKENY,bar,None,None,2
+HY-VEE FOOD STORE #3 (1142) / DES MOINES,None,None,supermarket,2
+HY-VEE FOOD STORE #3 (1142) / DES MOINES,None,stadium,None,1
+HY-VEE FOOD STORE #3 (1142) / DES MOINES,cafe,None,None,1
+HY-VEE FOOD STORE #3 (1142) / DES MOINES,pub,None,None,1
+HY-VEE FOOD STORE #3 (1142) / DES MOINES,restaurant,None,None,5
+HY-VEE FOOD STORE #3 / DES MOINES,restaurant,None,None,4
+HY-VEE FOOD STORE #3 / DES MOINES,None,None,supermarket,2
+HY-VEE FOOD STORE #5 (1151) / DES MOINES,restaurant,None,None,2
+HY-VEE FOOD STORE #5 / DES MOINES,restaurant,None,None,6
+HY-VEE FOOD STORE #5 / DES MOINES,cafe,None,None,1
+HY-VEE FOOD STORE #5 / DES MOINES,None,None,supermarket,3
+HY-VEE FOOD STORE (1011) / ALTOONA,None,None,supermarket,2
+HY-VEE FOOD STORE (1011) / ALTOONA,restaurant,None,None,1
+HY-VEE FOOD STORE (1148) / FLEUR / DSM,None,None,supermarket,3
+HY-VEE FOOD STORE (1148) / FLEUR / DSM,cafe,None,None,3
+HY-VEE FOOD STORE (1148) / FLEUR / DSM,pub,None,None,1
+HY-VEE FOOD STORE (1148) / FLEUR / DSM,restaurant,None,None,7
+HY-VEE FOOD STORE / ALTOONA,None,None,supermarket,2
+HY-VEE FOOD STORE / ALTOONA,restaurant,None,None,1
+HY-VEE FOOD STORE / DOUGLAS,restaurant,None,None,11
+HY-VEE FOOD STORE / DOUGLAS,pub,None,None,2
+HY-VEE FOOD STORE / DOUGLAS,None,None,supermarket,2
+HY-VEE FOOD STORE / DOUGLAS,bar,None,None,1
+HY-VEE FOOD STORE / DOUGLAS,cafe,None,None,1
+HY-VEE FOOD STORE / FLEUR / DSM,None,None,supermarket,3
+HY-VEE FOOD STORE / FLEUR / DSM,cafe,None,None,3
+HY-VEE FOOD STORE / FLEUR / DSM,pub,None,None,1
+HY-VEE FOOD STORE / FLEUR / DSM,restaurant,None,None,7
+HY-VEE FOOD STORE / JOHNSTON,restaurant,None,None,9
+HY-VEE FOOD STORE / JOHNSTON,pub,None,None,2
+HY-VEE FOOD STORE / JOHNSTON,cafe,None,None,1
+HY-VEE FOOD STORE / JOHNSTON,None,stadium,None,1
+HY-VEE FOOD STORE / JOHNSTON,bar,None,None,1
+HY-VEE FOOD STORE / JOHNSTON,None,None,supermarket,2
+HY-VEE FOOD STORE / URBANDALE,None,None,supermarket,2
+HY-VEE FOOD STORE / URBANDALE,bar,None,None,1
+HY-VEE FOOD STORE / URBANDALE,cafe,None,None,1
+HY-VEE FOOD STORE / URBANDALE,pub,None,None,2
+HY-VEE FOOD STORE / URBANDALE,restaurant,None,None,11
+HY-VEE FULFILLMENT CENTER,pub,None,None,3
+HY-VEE FULFILLMENT CENTER,restaurant,None,None,13
+HY-VEE FULFILLMENT CENTER,cafe,None,None,1
+HY-VEE FULFILLMENT CENTER,bar,None,None,5
+HY-VEE FULFILLMENT CENTER,None,None,supermarket,3
+HY-VEE GAS #1 / ANKENY,None,None,supermarket,1
+HY-VEE GAS #1 / ANKENY,None,stadium,None,12
+HY-VEE GAS #1 / ANKENY,bar,None,None,2
+HY-VEE GAS #1 / ANKENY,cafe,None,None,2
+HY-VEE GAS #1 / ANKENY,pub,None,None,3
+HY-VEE GAS #1 / ANKENY,restaurant,None,None,20
+HY-VEE GAS #4 - WDM,pub,None,None,4
+HY-VEE GAS #4 - WDM,cafe,None,None,5
+HY-VEE GAS #4 - WDM,restaurant,None,None,11
+HY-VEE GAS #4 - WDM,bar,None,None,4
+HY-VEE GAS #4 - WDM,None,None,supermarket,1
+HY-VEE GAS #4 - WDM,None,stadium,None,1
+HY-VEE GAS #4 / DES MOINES,None,None,supermarket,3
+HY-VEE GAS #4 / DES MOINES,cafe,None,None,3
+HY-VEE GAS #4 / DES MOINES,pub,None,None,1
+HY-VEE GAS #4 / DES MOINES,restaurant,None,None,7
+HY-VEE GAS - PLEASANT HILL,None,None,supermarket,1
+HY-VEE GAS - PLEASANT HILL,cafe,None,None,1
+HY-VEE GAS / JOHNSTON,restaurant,None,None,9
+HY-VEE GAS / JOHNSTON,pub,None,None,2
+HY-VEE GAS / JOHNSTON,cafe,None,None,1
+HY-VEE GAS / JOHNSTON,None,stadium,None,1
+HY-VEE GAS / JOHNSTON,None,None,supermarket,2
+HY-VEE GAS / JOHNSTON,bar,None,None,1
+HY-VEE WINE & SPIRITS #1 / MLK,None,None,supermarket,1
+HY-VEE WINE & SPIRITS #1 / MLK,bar,None,None,1
+HY-VEE WINE & SPIRITS #1 / MLK,restaurant,None,None,3
+HY-VEE WINE AND SPIRITS #1,bar,None,None,1
+HY-VEE WINE AND SPIRITS #1,None,None,supermarket,1
+HY-VEE WINE AND SPIRITS #1,restaurant,None,None,3
+HY-VEE WINE AND SPIRITS (1022) / ANKENY,pub,None,None,3
+HY-VEE WINE AND SPIRITS (1022) / ANKENY,cafe,None,None,2
+HY-VEE WINE AND SPIRITS (1022) / ANKENY,restaurant,None,None,20
+HY-VEE WINE AND SPIRITS (1022) / ANKENY,None,stadium,None,12
+HY-VEE WINE AND SPIRITS (1022) / ANKENY,bar,None,None,2
+HY-VEE WINE AND SPIRITS (1022) / ANKENY,None,None,supermarket,1
+HY-VEE WINE AND SPIRITS / ANKENY,None,None,supermarket,1
+HY-VEE WINE AND SPIRITS / ANKENY,None,stadium,None,12
+HY-VEE WINE AND SPIRITS / ANKENY,bar,None,None,2
+HY-VEE WINE AND SPIRITS / ANKENY,cafe,None,None,2
+HY-VEE WINE AND SPIRITS / ANKENY,pub,None,None,3
+HY-VEE WINE AND SPIRITS / ANKENY,restaurant,None,None,19
+HY-VEE WINE AND SPIRITS / HUBBELL,restaurant,None,None,2
+HY-VEE WINE AND SPIRITS / HUBBELL,bar,None,None,2
+HY-VEE WINE AND SPIRITS / HUBBELL,None,None,supermarket,1
+I-35 SPIRITS / ANKENY,pub,None,None,1
+I-35 SPIRITS / ANKENY,restaurant,None,None,5
+INGERSOLL LIQUOR AND BEVERAGE,None,None,supermarket,1
+INGERSOLL LIQUOR AND BEVERAGE,bar,None,None,6
+INGERSOLL LIQUOR AND BEVERAGE,cafe,None,None,4
+INGERSOLL LIQUOR AND BEVERAGE,pub,None,None,2
+INGERSOLL LIQUOR AND BEVERAGE,restaurant,None,None,13
+INGERSOLL WINE MERCHANTS,restaurant,None,None,13
+INGERSOLL WINE MERCHANTS,pub,None,None,2
+INGERSOLL WINE MERCHANTS,cafe,None,None,1
+INGERSOLL WINE MERCHANTS,bar,None,None,1
+INGERSOLL WINE MERCHANTS,None,None,supermarket,1
+JCL STORE,None,None,supermarket,3
+JCL STORE,bar,None,None,2
+JCL STORE,cafe,None,None,3
+JCL STORE,pub,None,None,1
+JCL STORE,restaurant,None,None,13
+JCL STORE,restaurant,amusement_arcade,None,1
+JK AFRICAN STORE LLC / DES MOINES,restaurant,None,None,5
+JK AFRICAN STORE LLC / DES MOINES,pub,None,None,1
+JK AFRICAN STORE LLC / DES MOINES,cafe,None,None,4
+JK AFRICAN STORE LLC / DES MOINES,None,stadium,None,2
+JK AFRICAN STORE LLC / DES MOINES,None,None,supermarket,2
+JK AFRICAN STORE LLC / DES MOINES,bar,None,None,1
+JOHNSON BROTHERS WIRTZ,None,None,supermarket,1
+JOHNSON BROTHERS WIRTZ,None,stadium,None,1
+JOHNSON BROTHERS WIRTZ,bar,None,None,3
+JOHNSON BROTHERS WIRTZ,restaurant,None,None,2
+KUM & GO # 542 / URBANDALE,cafe,None,None,2
+KUM & GO # 542 / URBANDALE,restaurant,None,None,5
+KUM & GO #0731 / DES MOINES,None,stadium,None,2
+KUM & GO #0731 / DES MOINES,restaurant,None,None,7
+KUM & GO #0731 / DES MOINES,pub,None,None,1
+KUM & GO #0731 / DES MOINES,None,None,supermarket,3
+KUM & GO #0731 / DES MOINES,bar,None,None,1
+KUM & GO #0731 / DES MOINES,cafe,None,None,3
+KUM & GO #1097,None,None,supermarket,1
+KUM & GO #1097,None,stadium,None,1
+KUM & GO #1097,cafe,None,None,2
+KUM & GO #1097,pub,None,None,1
+KUM & GO #1097,restaurant,None,None,4
+KUM & GO #1097 / 50TH WDM,restaurant,None,None,4
+KUM & GO #1097 / 50TH WDM,pub,None,None,1
+KUM & GO #1097 / 50TH WDM,None,None,supermarket,1
+KUM & GO #1097 / 50TH WDM,None,stadium,None,1
+KUM & GO #1097 / 50TH WDM,cafe,None,None,2
+KUM & GO #121 / URBANDALE,restaurant,None,None,3
+KUM & GO #129  /  JOHNSTON,None,None,supermarket,1
+KUM & GO #129  /  JOHNSTON,bar,None,None,4
+KUM & GO #129  /  JOHNSTON,cafe,None,None,2
+KUM & GO #129  /  JOHNSTON,pub,None,None,1
+KUM & GO #129  /  JOHNSTON,restaurant,None,None,11
+KUM & GO #129 / JOHNSTON,pub,None,None,1
+KUM & GO #129 / JOHNSTON,restaurant,None,None,11
+KUM & GO #129 / JOHNSTON,bar,None,None,4
+KUM & GO #129 / JOHNSTON,None,None,supermarket,1
+KUM & GO #129 / JOHNSTON,cafe,None,None,2
+KUM & GO #135 / POLK CITY,None,None,supermarket,1
+KUM & GO #135 / POLK CITY,bar,None,None,1
+KUM & GO #135 / POLK CITY,cafe,None,None,2
+KUM & GO #135 / POLK CITY,pub,None,None,1
+KUM & GO #135 / POLK CITY,restaurant,None,None,4
+KUM & GO #141 / GRIMES,restaurant,None,None,1
+KUM & GO #141 / GRIMES,cafe,None,None,3
+KUM & GO #141 / GRIMES,bar,None,None,2
+KUM & GO #141 / GRIMES,None,None,supermarket,1
+KUM & GO #141 / GRIMES,None,stadium,None,1
+KUM & GO #170 / URBANDALE,bar,None,None,6
+KUM & GO #170 / URBANDALE,cafe,None,None,2
+KUM & GO #170 / URBANDALE,pub,None,None,2
+KUM & GO #170 / URBANDALE,restaurant,None,None,13
+KUM & GO #206 / CLIVE,pub,None,None,4
+KUM & GO #206 / CLIVE,restaurant,None,None,18
+KUM & GO #206 / CLIVE,restaurant,amusement_arcade,None,1
+KUM & GO #206 / CLIVE,cafe,None,None,2
+KUM & GO #206 / CLIVE,None,None,supermarket,2
+KUM & GO #206 / CLIVE,bar,None,None,8
+KUM & GO #208 / SE 14TH DM,None,None,supermarket,1
+KUM & GO #208 / SE 14TH DM,restaurant,None,None,4
+KUM & GO #2091 / ASHWORTH / WDM,restaurant,None,None,5
+KUM & GO #292 / ANKENY,pub,None,None,2
+KUM & GO #292 / ANKENY,cafe,None,None,1
+KUM & GO #292 / ANKENY,restaurant,None,None,10
+KUM & GO #292 / ANKENY,None,None,supermarket,3
+KUM & GO #292 / ANKENY,None,stadium,None,12
+KUM & GO #4020 / ANKENY,None,None,supermarket,1
+KUM & GO #4020 / ANKENY,bar,None,None,2
+KUM & GO #4020 / ANKENY,cafe,None,None,3
+KUM & GO #4020 / ANKENY,pub,None,None,1
+KUM & GO #4020 / ANKENY,restaurant,None,None,11
+KUM & GO #4084 / ALTOONA,None,None,supermarket,2
+KUM & GO #4084 / ALTOONA,restaurant,None,None,1
+KUM & GO #50 / WEST DES MOINES,pub,None,None,4
+KUM & GO #50 / WEST DES MOINES,restaurant,None,None,10
+KUM & GO #50 / WEST DES MOINES,cafe,None,None,4
+KUM & GO #50 / WEST DES MOINES,bar,None,None,4
+KUM & GO #50 / WEST DES MOINES,None,stadium,None,1
+KUM & GO #50 / WEST DES MOINES,None,None,supermarket,1
+KUM & GO #542 / URBANDALE,cafe,None,None,2
+KUM & GO #542 / URBANDALE,restaurant,None,None,5
+KUM & GO #570 / JOHNSTON,restaurant,None,None,1
+KUM & GO #570 / JOHNSTON,cafe,None,None,1
+KUM & GO #570 / JOHNSTON,pub,None,None,1
+KUM & GO #570 / JOHNSTON,None,stadium,None,1
+KUM & GO #570 / JOHNSTON,None,None,supermarket,1
+KUM & GO #570 / JOHNSTON,bar,None,None,1
+KUM & GO #572 / URBANDALE,cafe,None,None,1
+KUM & GO #572 / URBANDALE,restaurant,None,None,1
+KUM & GO #573 / SE 14TH DM,None,None,supermarket,4
+KUM & GO #573 / SE 14TH DM,cafe,None,None,1
+KUM & GO #573 / SE 14TH DM,restaurant,None,None,7
+KUM & GO #576 / WEST DES MOINES,cafe,None,None,1
+KUM & GO #576 / WEST DES MOINES,None,stadium,None,1
+KUM & GO #579 / ANKENY,pub,None,None,5
+KUM & GO #579 / ANKENY,restaurant,None,None,11
+KUM & GO #579 / ANKENY,bar,None,None,3
+KUM & GO #579 / ANKENY,cafe,None,None,1
+KUM & GO #62 / JOHNSTON,bar,None,None,1
+KUM & GO #62 / JOHNSTON,restaurant,None,None,3
+KUM & GO #66 / WEST DES MOINES,None,None,supermarket,1
+KUM & GO #66 / WEST DES MOINES,bar,None,None,1
+KUM & GO #66 / WEST DES MOINES,cafe,None,None,2
+KUM & GO #66 / WEST DES MOINES,pub,None,None,2
+KUM & GO #66 / WEST DES MOINES,restaurant,None,None,20
+KUM & GO #7701 / DES MOINES,restaurant,None,None,53
+KUM & GO #7701 / DES MOINES,pub,None,None,10
+KUM & GO #7701 / DES MOINES,cafe,None,None,13
+KUM & GO #7701 / DES MOINES,bar,None,None,34
+KUM & GO #7701 / DES MOINES,None,None,supermarket,2
+KUM & GO #7701 / DES MOINES,None,stadium,None,1
+KUM & GO #777 / URBANDALE,None,None,supermarket,2
+KUM & GO #777 / URBANDALE,bar,None,None,2
+KUM & GO #777 / URBANDALE,cafe,None,None,1
+KUM & GO #777 / URBANDALE,pub,None,None,2
+KUM & GO #777 / URBANDALE,restaurant,None,None,11
+KUM & GO #8 / 8TH ST / WDM,pub,None,None,3
+KUM & GO #8 / 8TH ST / WDM,restaurant,None,None,9
+KUM & GO #8 / 8TH ST / WDM,bar,None,None,5
+KUM & GO #8 / 8TH ST / WDM,None,None,supermarket,4
+KUM & GO #8 / 8TH ST / WDM,cafe,None,None,2
+KUM & GO #92 / ANKENY,pub,None,None,1
+KUM & GO #92 / ANKENY,restaurant,None,None,5
+KUM & GO #97 / WEST DES MOINES,None,None,supermarket,1
+KUM & GO #97 / WEST DES MOINES,None,stadium,None,1
+KUM & GO #97 / WEST DES MOINES,bar,None,None,2
+KUM & GO #97 / WEST DES MOINES,cafe,None,None,3
+KUM & GO #97 / WEST DES MOINES,pub,None,None,3
+KUM & GO #97 / WEST DES MOINES,restaurant,None,None,8
+KWIK STAR #1097 / URBANDALE,restaurant,None,None,1
+KWIK STAR #1097 / URBANDALE,cafe,None,None,1
+KWIK STAR #1097 / URBANDALE,pub,None,None,1
+KWIK STAR #1155 / PLEASANT HILL,None,None,supermarket,1
+KWIK STAR #1703 / JOHNSTON,None,None,supermarket,2
+KWIK STAR #1703 / JOHNSTON,bar,None,None,1
+KWIK STAR #1703 / JOHNSTON,cafe,None,None,1
+KWIK STAR #1703 / JOHNSTON,pub,None,None,3
+KWIK STAR #1703 / JOHNSTON,restaurant,None,None,9
+LA TROPICANA / URBANDALE,restaurant,None,None,13
+LA TROPICANA / URBANDALE,cafe,None,None,1
+LA TROPICANA / URBANDALE,pub,None,None,4
+LA TROPICANA / URBANDALE,None,None,supermarket,3
+LA TROPICANA / URBANDALE,bar,None,None,7
+LAST STOP BEVERAGE SHOP,None,None,supermarket,1
+LAST STOP BEVERAGE SHOP,None,stadium,None,1
+LAST STOP BEVERAGE SHOP,bar,None,None,2
+LAST STOP BEVERAGE SHOP,restaurant,None,None,3
+LICKETY LIQUOR,None,None,supermarket,1
+LICKETY LIQUOR,restaurant,None,None,1
+LIQUOR GARDEN / URBANDALE,cafe,None,None,1
+LIQUOR GARDEN / URBANDALE,pub,None,None,1
+LIQUOR GARDEN / URBANDALE,restaurant,None,None,3
+LIQUOR LAND / DES MOINES,restaurant,None,None,10
+LIQUOR LAND / DES MOINES,pub,None,None,2
+LIQUOR LAND / DES MOINES,bar,None,None,1
+LIQUOR LAND / DES MOINES,cafe,None,None,1
+LIQUOR LOVERS  / ANKENY,bar,None,None,2
+LIQUOR LOVERS  / ANKENY,cafe,None,None,1
+LIQUOR LOVERS  / ANKENY,pub,None,None,5
+LIQUOR LOVERS  / ANKENY,restaurant,None,None,8
+LIQUOR LOVERS / ANKENY,bar,None,None,2
+LIQUOR LOVERS / ANKENY,cafe,None,None,2
+LIQUOR LOVERS / ANKENY,pub,None,None,4
+LIQUOR LOVERS / ANKENY,restaurant,None,None,6
+MARLE HAY LIQUOR & SMOKE / DES MOINES,restaurant,None,None,14
+MARLE HAY LIQUOR & SMOKE / DES MOINES,cafe,None,None,3
+MARLE HAY LIQUOR & SMOKE / DES MOINES,None,None,supermarket,1
+MARLE HAY LIQUOR & SMOKE / DES MOINES,bar,None,None,6
+MARRIOTT CORP.,None,None,supermarket,3
+MARRIOTT CORP.,None,stadium,None,1
+MARRIOTT CORP.,bar,None,None,34
+MARRIOTT CORP.,cafe,None,None,14
+MARRIOTT CORP.,pub,None,None,9
+MARRIOTT CORP.,restaurant,None,None,53
+MIDWEST FOOD & LIQUOR / PLEASANT HILL,None,None,supermarket,1
+MIDWEST FOOD & LIQUOR / PLEASANT HILL,cafe,None,None,1
+MLK LIQUOR LLC / DES MOINES,None,None,supermarket,1
+MLK LIQUOR LLC / DES MOINES,bar,None,None,1
+MLK LIQUOR LLC / DES MOINES,restaurant,None,None,3
+NAT FOOD MART / 2ND AVE DM,None,None,supermarket,1
+NAT FOOD MART / 2ND AVE DM,restaurant,None,None,4
+NAT FOOD MART / 2ND AVE DM,restaurant,None,coffee,1
+NEIGHBORHOOD LIQUOR HOUSE / ANKENY,None,None,supermarket,2
+NORTH AMERICAN SPIRITS,pub,None,None,10
+NORTH AMERICAN SPIRITS,restaurant,None,None,35
+NORTH AMERICAN SPIRITS,cafe,None,None,7
+NORTH AMERICAN SPIRITS,bar,None,None,32
+NORTH AMERICAN SPIRITS,None,stadium,None,1
+NORTH AMERICAN SPIRITS,None,None,supermarket,2
+OASIS,None,None,supermarket,1
+OASIS,None,stadium,None,2
+OASIS,bar,None,None,20
+OASIS,cafe,None,None,7
+OASIS,pub,None,None,8
+OASIS,restaurant,None,None,38
+OASIS GROCERY AND LIQUOR /,restaurant,None,None,8
+OASIS GROCERY AND LIQUOR /,pub,None,None,3
+OASIS GROCERY AND LIQUOR /,cafe,None,None,1
+OASIS GROCERY AND LIQUOR /,bar,None,None,1
+OASIS GROCERY AND LIQUOR /,None,None,supermarket,2
+PHILLIPS 66,None,None,supermarket,1
+PHILLIPS 66,None,stadium,None,1
+PHILLIPS 66,bar,None,None,22
+PHILLIPS 66,cafe,None,None,4
+PHILLIPS 66,pub,None,None,9
+PHILLIPS 66,restaurant,None,None,26
+POLK CITY LIQUOR,restaurant,None,None,4
+POLK CITY LIQUOR,pub,None,None,1
+POLK CITY LIQUOR,bar,None,None,1
+POLK CITY LIQUOR,None,None,supermarket,1
+POLK CITY LIQUOR,cafe,None,None,2
+POLK CITY LIQUOR / POLK CITY,None,None,supermarket,1
+POLK CITY LIQUOR / POLK CITY,bar,None,None,1
+POLK CITY LIQUOR / POLK CITY,cafe,None,None,2
+POLK CITY LIQUOR / POLK CITY,pub,None,None,1
+POLK CITY LIQUOR / POLK CITY,restaurant,None,None,4
+PRAIRIE MEADOWS,cafe,None,None,1
+PRAIRIE MEADOWS,restaurant,None,None,11
+PRAIRIE MEADOWS,pub,None,None,2
+PRAIRIE MEADOWS,bar,None,None,1
+PRAIRIE MEADOWS,None,None,supermarket,1
+PRICE CHOPPER  /  BEAVER,None,None,supermarket,2
+PRICE CHOPPER  /  BEAVER,bar,None,None,2
+PRICE CHOPPER  /  BEAVER,cafe,None,None,3
+PRICE CHOPPER  /  BEAVER,pub,None,None,5
+PRICE CHOPPER  /  BEAVER,restaurant,None,None,15
+PRICE CHOPPER  /  BEAVER #1310,restaurant,None,None,15
+PRICE CHOPPER  /  BEAVER #1310,pub,None,None,5
+PRICE CHOPPER  /  BEAVER #1310,bar,None,None,2
+PRICE CHOPPER  /  BEAVER #1310,None,None,supermarket,2
+PRICE CHOPPER  /  BEAVER #1310,cafe,None,None,3
+PRICE CHOPPER  /  INGERSOLL,None,None,supermarket,1
+PRICE CHOPPER  /  INGERSOLL,bar,None,None,6
+PRICE CHOPPER  /  INGERSOLL,cafe,None,None,4
+PRICE CHOPPER  /  INGERSOLL,pub,None,None,2
+PRICE CHOPPER  /  INGERSOLL,restaurant,None,None,14
+PRICE CHOPPER  /  JOHNSTON,bar,None,None,4
+PRICE CHOPPER  /  JOHNSTON,cafe,None,None,1
+PRICE CHOPPER  /  JOHNSTON,pub,None,None,1
+PRICE CHOPPER  /  JOHNSTON,restaurant,None,None,11
+PRICE CHOPPER  /  MERLE HAY,restaurant,None,None,17
+PRICE CHOPPER  /  MERLE HAY,cafe,None,None,4
+PRICE CHOPPER  /  MERLE HAY,None,None,supermarket,1
+PRICE CHOPPER  /  MERLE HAY,bar,None,None,5
+PRICE CHOPPER  /  MERLE HAY #1315,None,None,supermarket,1
+PRICE CHOPPER  /  MERLE HAY #1315,bar,None,None,5
+PRICE CHOPPER  /  MERLE HAY #1315,cafe,None,None,4
+PRICE CHOPPER  /  MERLE HAY #1315,restaurant,None,None,17
+QUIK TRIP #501 / E EUCLID DM,restaurant,None,None,1
+QUIK TRIP #501 / E EUCLID DM,None,None,supermarket,1
+QUIK TRIP #503 / WINDSOR HEIGHTS,restaurant,None,None,4
+QUIK TRIP #503 / WINDSOR HEIGHTS,pub,None,None,2
+QUIK TRIP #503 / WINDSOR HEIGHTS,bar,None,None,3
+QUIK TRIP #513 / URBANDALE,None,None,supermarket,1
+QUIK TRIP #513 / URBANDALE,bar,None,None,1
+QUIK TRIP #513 / URBANDALE,cafe,None,None,2
+QUIK TRIP #513 / URBANDALE,pub,None,None,1
+QUIK TRIP #513 / URBANDALE,restaurant,None,None,11
+QUIK TRIP #514 / ANKENY,pub,None,None,3
+QUIK TRIP #514 / ANKENY,restaurant,None,None,13
+QUIK TRIP #514 / ANKENY,None,None,supermarket,1
+QUIK TRIP #514 / ANKENY,cafe,None,None,2
+QUIK TRIP #517 / WEST DES MOINES,None,None,supermarket,1
+QUIK TRIP #517 / WEST DES MOINES,bar,None,None,4
+QUIK TRIP #517 / WEST DES MOINES,cafe,None,None,6
+QUIK TRIP #517 / WEST DES MOINES,pub,None,None,5
+QUIK TRIP #517 / WEST DES MOINES,restaurant,None,None,15
+QUIK TRIP #517 / WEST DES MOINES,restaurant,amusement_arcade,None,1
+QUIK TRIP #523 / ARMY POST DM,restaurant,None,None,2
+QUIK TRIP #530,None,None,supermarket,3
+QUIK TRIP #530,restaurant,None,None,6
+QUIK TRIP #530 / EUCLID,restaurant,None,None,6
+QUIK TRIP #530 / EUCLID,None,None,supermarket,3
+QUIK TRIP #531 / GRIMES,cafe,None,None,2
+QUIK TRIP #531 / GRIMES,restaurant,None,None,2
+QUIK TRIP #534 / E UNIVERSITY DM,None,None,supermarket,1
+QUIK TRIP #534 / E UNIVERSITY DM,None,stadium,None,1
+QUIK TRIP #534 / E UNIVERSITY DM,bar,None,None,2
+QUIK TRIP #534 / E UNIVERSITY DM,restaurant,None,None,2
+QUIK TRIP #538 / NW 2ND / DSM,restaurant,None,None,1
+QUIK TRIP #544 / SE 14TH DM,restaurant,None,None,5
+QUIK TRIP #544 / SE 14TH DM,None,None,supermarket,2
+QUIK TRIP #554 / SW 63RD DM,bar,None,None,4
+QUIK TRIP #554 / SW 63RD DM,cafe,None,None,2
+QUIK TRIP #554 / SW 63RD DM,pub,None,None,2
+QUIK TRIP #554 / SW 63RD DM,restaurant,None,None,9
+QUIK TRIP #559 / FLEUR,restaurant,None,None,6
+QUIK TRIP #559 / FLEUR,None,None,supermarket,3
+QUIK TRIP #559 / FLEUR,cafe,None,None,1
+QUIK TRIP #559 / FLEUR,pub,None,None,1
+QUIK TRIP #559 / FLEUR DR DM,pub,None,None,1
+QUIK TRIP #559 / FLEUR DR DM,restaurant,None,None,6
+QUIK TRIP #559 / FLEUR DR DM,None,None,supermarket,3
+QUIK TRIP #559 / FLEUR DR DM,cafe,None,None,2
+QUIK TRIP #566 / CLIVE,bar,None,None,1
+QUIK TRIP #566 / CLIVE,cafe,None,None,2
+QUIK TRIP #566 / CLIVE,pub,None,None,2
+QUIK TRIP #566 / CLIVE,restaurant,None,None,21
+QUIK TRIP #567 / URBANDALE,None,None,supermarket,1
+QUIK TRIP #567 / URBANDALE,cafe,None,None,1
+QUIK TRIP #567 / URBANDALE,pub,None,None,1
+QUIK TRIP #567 / URBANDALE,restaurant,None,None,3
+QUIK TRIP #568 / JOHNSTON,restaurant,None,None,9
+QUIK TRIP #568 / JOHNSTON,pub,None,None,2
+QUIK TRIP #568 / JOHNSTON,bar,None,None,1
+QUIK TRIP #568 / JOHNSTON,None,None,supermarket,1
+QUIK TRIP #568 / JOHNSTON,cafe,None,None,1
+ROYAL FOOD,None,None,supermarket,1
+ROYAL FOOD,restaurant,None,None,4
+ROYAL FOOD,restaurant,None,coffee,1
+ROYAL FOOD & LIQUOR / DES MOINES,None,None,supermarket,1
+ROYAL FOOD & LIQUOR / DES MOINES,restaurant,None,None,4
+ROYAL FOOD & LIQUOR / DES MOINES,restaurant,None,coffee,1
+ROYAL MART / DES MOINES,restaurant,None,None,11
+ROYAL MART / DES MOINES,pub,None,None,3
+ROYAL MART / DES MOINES,None,None,supermarket,1
+ROYAL MART / DES MOINES,bar,None,None,4
+ROYAL MART / DES MOINES,cafe,None,None,2
+SA PETRO MART,bar,None,None,4
+SA PETRO MART,cafe,None,None,2
+SA PETRO MART,pub,None,None,3
+SA PETRO MART,restaurant,None,None,10
+SAHOTA FOOD MART,bar,None,None,1
+SAHOTA FOOD MART,pub,None,None,1
+SAM'S CLUB 6344 / WINDSOR HEIGHTS,restaurant,amusement_arcade,None,1
+SAM'S CLUB 6344 / WINDSOR HEIGHTS,restaurant,None,None,7
+SAM'S CLUB 6344 / WINDSOR HEIGHTS,pub,None,None,1
+SAM'S CLUB 6344 / WINDSOR HEIGHTS,cafe,None,None,3
+SAM'S CLUB 6344 / WINDSOR HEIGHTS,bar,None,None,2
+SAM'S CLUB 6344 / WINDSOR HEIGHTS,None,None,supermarket,3
+SAM'S CLUB 6979 / ANKENY,cafe,None,None,1
+SAM'S CLUB 6979 / ANKENY,restaurant,None,None,4
+SHOP N SAVE  /  NW 2ND  DSM,restaurant,None,None,1
+SHOP N SAVE #2 / E 14TH,None,None,supermarket,3
+SHOP N SAVE #2 / E 14TH,None,stadium,None,1
+SHOP N SAVE #2 / E 14TH,restaurant,None,None,8
+SHOP N SAVE / 6TH AVE,restaurant,None,coffee,1
+SHOP N SAVE / 6TH AVE,bar,None,None,1
+SHOP N SAVE / 6TH AVE,restaurant,None,None,4
+SHOP N SAVE / DES MOINES,bar,None,None,1
+SHOP N SAVE / DES MOINES,restaurant,None,None,4
+SHOP N SAVE / DES MOINES,restaurant,None,coffee,1
+SIP & BURN / ANKENY,None,None,supermarket,1
+SIP & BURN / ANKENY,pub,None,None,1
+SIP & BURN / ANKENY,restaurant,None,None,1
+SMOKER'S GENIE 2 / DES MOINES,cafe,None,None,3
+SMOKER'S GENIE 2 / DES MOINES,None,None,supermarket,1
+SMOKER'S GENIE 2 / DES MOINES,bar,None,None,6
+SMOKER'S GENIE 2 / DES MOINES,restaurant,None,None,14
+SMOKIN' JOE'S #4 TOBACCO AND LIQUOR,None,None,supermarket,1
+SMOKIN' JOE'S #4 TOBACCO AND LIQUOR,None,stadium,None,1
+SMOKIN' JOE'S #4 TOBACCO AND LIQUOR,bar,None,None,2
+SMOKIN' JOE'S #4 TOBACCO AND LIQUOR,restaurant,None,None,3
+SMOKIN' JOE'S #4 TOBACCO AND LIQUOR OUTLET,None,stadium,None,1
+SMOKIN' JOE'S #4 TOBACCO AND LIQUOR OUTLET,bar,None,None,2
+SMOKIN' JOE'S #4 TOBACCO AND LIQUOR OUTLET,None,None,supermarket,1
+SMOKIN' JOE'S #4 TOBACCO AND LIQUOR OUTLET,restaurant,None,None,3
+SOUTH SIDE FOOD MART,restaurant,None,None,2
+SOUTHERN GLAZERS WINE & SPIRITS OF IOWA,cafe,None,None,2
+SOUTHERN GLAZERS WINE & SPIRITS OF IOWA,restaurant,None,None,2
+SOUTHERN WINE & SPIRITS,cafe,None,None,2
+SOUTHERN WINE & SPIRITS,restaurant,None,None,2
+SOUTHSIDE FOOD MART,restaurant,None,None,2
+SOUTHSIDE TOBACCO & LIQUOR,None,stadium,None,1
+SOUTHSIDE TOBACCO & LIQUOR,restaurant,None,None,2
+SOUTHSIDE TOBACCO AND LIQUOR,None,stadium,None,1
+SOUTHSIDE TOBACCO AND LIQUOR,restaurant,None,None,2
+SPEEDEE MART 1515 / COUNCIL BLUFFS,restaurant,None,None,14
+SPEEDEE MART 1515 / COUNCIL BLUFFS,cafe,None,None,3
+SPEEDEE MART 1515 / COUNCIL BLUFFS,None,None,supermarket,1
+SPEEDEE MART 1515 / COUNCIL BLUFFS,bar,None,None,6
+SPIRIT LIQUOR - 1 / GRIMES,None,None,supermarket,2
+SPIRIT LIQUOR - 1 / GRIMES,restaurant,None,None,5
+SPIRITS / GRIMES,None,None,supermarket,2
+SPIRITS / GRIMES,restaurant,None,None,5
+SPIRITS LIQUOR,None,None,supermarket,2
+SPIRITS LIQUOR,restaurant,None,None,5
+SPIRITS LIQUOR / GRIMES,restaurant,None,None,5
+SPIRITS LIQUOR / GRIMES,None,None,supermarket,2
+STOP AND SHOP LIQUOR LLC / ANKENY,None,None,supermarket,1
+STOP AND SHOP LIQUOR LLC / ANKENY,None,stadium,None,10
+STOP AND SHOP LIQUOR LLC / ANKENY,bar,None,None,2
+STOP AND SHOP LIQUOR LLC / ANKENY,cafe,None,None,2
+STOP AND SHOP LIQUOR LLC / ANKENY,pub,None,None,4
+STOP AND SHOP LIQUOR LLC / ANKENY,restaurant,None,None,15
+SUPER QUICK / SE 30 DM,None,stadium,None,1
+SUPER QUICK / SE 30 DM,bar,None,None,2
+SUPER QUICK / SE 30 DM,restaurant,None,None,2
+SUPER QUICK 2 / HUBBELL,None,None,supermarket,2
+SUPER QUICK 2 / HUBBELL,None,stadium,None,1
+SUPER QUICK 2 / HUBBELL,bar,None,None,2
+SUPER QUICK 2 / HUBBELL,restaurant,None,None,10
+SUPER QUICK LIQUOR / WDM,restaurant,None,None,16
+SUPER QUICK LIQUOR / WDM,pub,None,None,4
+SUPER QUICK LIQUOR / WDM,restaurant,amusement_arcade,None,1
+SUPER QUICK LIQUOR / WDM,bar,None,None,4
+SUPER QUICK LIQUOR / WDM,None,None,supermarket,1
+SUPER QUICK LIQUOR / WDM,cafe,None,None,6
+SUPER QUICK MART / WINDSOR HEIGHTS,restaurant,None,None,8
+SUPER QUICK MART / WINDSOR HEIGHTS,pub,None,None,3
+SUPER QUICK MART / WINDSOR HEIGHTS,None,None,supermarket,1
+SUPER QUICK MART / WINDSOR HEIGHTS,bar,None,None,6
+SUPER STOP  SE 14TH,None,None,supermarket,1
+SUPER STOP  SE 14TH,bar,None,None,3
+SUPER STOP  SE 14TH,pub,None,None,2
+SUPER STOP  SE 14TH,restaurant,None,None,9
+SUPER STOP / ALTOONA,restaurant,None,None,7
+SUPER STOP / ALTOONA,bar,None,None,1
+SUPER STOP / ALTOONA,pub,None,None,1
+SUPER STOP 2 / ALTOONA,restaurant,None,None,7
+SUPER STOP 2 / ALTOONA,bar,None,None,1
+SUPER STOP 2 / ALTOONA,pub,None,None,1
+SUPER STOP II / ALTOONA,bar,None,None,1
+SUPER STOP II / ALTOONA,pub,None,None,1
+SUPER STOP II / ALTOONA,restaurant,None,None,7
+SUPER STOP LIQUOR AND WINE / ALTOONA,pub,None,None,1
+SUPER STOP LIQUOR AND WINE / ALTOONA,bar,None,None,1
+SUPER STOP LIQUOR AND WINE / ALTOONA,restaurant,None,None,7
+SUPERQUICK LIQUOR VINE / WEST DES MOINES,restaurant,None,None,4
+SUPERQUICK LIQUOR VINE / WEST DES MOINES,pub,None,None,1
+SUPERQUICK LIQUOR VINE / WEST DES MOINES,cafe,None,None,2
+SUPERQUICK LIQUOR VINE / WEST DES MOINES,None,None,supermarket,1
+SWELL LIQUOR,None,None,supermarket,1
+SWELL LIQUOR,bar,None,None,1
+SWELL LIQUOR,cafe,None,None,2
+SWELL LIQUOR,pub,None,None,3
+SWELL LIQUOR,restaurant,None,None,12
+TARGET STORE T-0069 / WDM,restaurant,None,None,20
+TARGET STORE T-0069 / WDM,pub,None,None,4
+TARGET STORE T-0069 / WDM,cafe,None,None,7
+TARGET STORE T-0069 / WDM,bar,None,None,3
+TARGET STORE T-0069 / WDM,None,None,supermarket,4
+TARGET STORE T-1767 / ANKENY,None,None,supermarket,1
+TARGET STORE T-1767 / ANKENY,cafe,None,None,3
+TARGET STORE T-1767 / ANKENY,restaurant,None,None,13
+TARGET STORE T-1791 / URBANDALE,cafe,None,None,1
+TARGET STORE T-1791 / URBANDALE,restaurant,None,None,1
+TARGET STORE T-1901 / WDM,pub,None,None,4
+TARGET STORE T-1901 / WDM,cafe,None,None,4
+TARGET STORE T-1901 / WDM,restaurant,None,None,10
+TARGET STORE T-1901 / WDM,None,None,supermarket,1
+TARGET STORE T-1901 / WDM,bar,None,None,4
+TARGET STORE T-1939 / ALTOONA,restaurant,None,None,9
+TARGET STORE T-1939 / ALTOONA,pub,None,None,2
+TARGET STORE T-1939 / ALTOONA,None,None,supermarket,1
+TARGET STORE T-1939 / ALTOONA,bar,None,None,1
+TARGET STORE T-1939 / ALTOONA,cafe,None,None,1
+TARGET STORE T-2041 / DES MOINES,None,None,supermarket,1
+TARGET STORE T-2041 / DES MOINES,bar,None,None,5
+TARGET STORE T-2041 / DES MOINES,cafe,None,None,4
+TARGET STORE T-2041 / DES MOINES,restaurant,None,None,16
+TEQUILA'S LIQUOR STORE,restaurant,None,None,20
+TEQUILA'S LIQUOR STORE,pub,None,None,1
+TEQUILA'S LIQUOR STORE,cafe,None,None,4
+TEQUILA'S LIQUOR STORE,bar,None,None,14
+TEQUILA'S LIQUOR STORE,None,stadium,None,1
+TEQUILA'S LIQUOR STORE,None,None,supermarket,4
+THE LIQUOR CABINET / CLIVE,None,None,supermarket,4
+THE LIQUOR CABINET / CLIVE,bar,None,None,3
+THE LIQUOR CABINET / CLIVE,cafe,None,None,7
+THE LIQUOR CABINET / CLIVE,pub,None,None,4
+THE LIQUOR CABINET / CLIVE,restaurant,None,None,20
+THE SPOT TRUCK STOP / GRIMES,restaurant,None,None,2
+THE SPOT TRUCK STOP / GRIMES,cafe,None,None,2
+TOBACCO HUT / ANKENY,None,None,supermarket,1
+TOBACCO HUT / ANKENY,None,stadium,None,12
+TOBACCO HUT / ANKENY,bar,None,None,2
+TOBACCO HUT / ANKENY,cafe,None,None,2
+TOBACCO HUT / ANKENY,pub,None,None,3
+TOBACCO HUT / ANKENY,restaurant,None,None,16
+TOBACCO HUT / URBANDALE,cafe,None,None,2
+TOBACCO HUT / URBANDALE,None,None,supermarket,1
+TOBACCO HUT / URBANDALE,bar,None,None,6
+TOBACCO HUT / URBANDALE,pub,None,None,1
+TOBACCO HUT / URBANDALE,restaurant,None,None,18
+TOBACCO HUT PLUS US GAS / DES MOINES,None,stadium,None,1
+TOBACCO HUT PLUS US GAS / DES MOINES,restaurant,None,None,2
+TOBACCO MART / URBANDALE,pub,None,None,1
+TOBACCO MART / URBANDALE,cafe,None,None,2
+TOBACCO MART / URBANDALE,restaurant,None,None,18
+TOBACCO MART / URBANDALE,None,None,supermarket,1
+TOBACCO MART / URBANDALE,bar,None,None,6
+TOBACCO OUTLET PLUS #507 - URBANDALE,cafe,None,None,2
+TOBACCO OUTLET PLUS #507 - URBANDALE,pub,None,None,2
+TOBACCO OUTLET PLUS #507 - URBANDALE,bar,None,None,6
+TOBACCO OUTLET PLUS #507 - URBANDALE,restaurant,None,None,13
+U S GAS,restaurant,None,None,2
+U S GAS,None,stadium,None,1
+UNIVERSITY GROCERIES,None,None,supermarket,2
+UNIVERSITY GROCERIES,None,stadium,None,2
+UNIVERSITY GROCERIES,bar,None,None,1
+UNIVERSITY GROCERIES,cafe,None,None,5
+UNIVERSITY GROCERIES,restaurant,None,None,7
+UNIVERSITY MARKET / DES MOINES,None,None,supermarket,1
+UNIVERSITY MARKET / DES MOINES,bar,None,None,2
+UNIVERSITY MARKET / DES MOINES,restaurant,None,None,2
+URBAN LIQUOR,restaurant,None,None,18
+URBAN LIQUOR,pub,None,None,1
+URBAN LIQUOR,bar,None,None,6
+URBAN LIQUOR,None,None,supermarket,1
+URBAN LIQUOR,cafe,None,None,2
+URBANDALE LIQUOR,None,None,supermarket,1
+URBANDALE LIQUOR,bar,None,None,6
+URBANDALE LIQUOR,cafe,None,None,2
+URBANDALE LIQUOR,pub,None,None,1
+URBANDALE LIQUOR,restaurant,None,None,18
+VALLEY WEST CORNER STORE / WDM,restaurant,None,None,16
+VALLEY WEST CORNER STORE / WDM,restaurant,amusement_arcade,None,1
+VALLEY WEST CORNER STORE / WDM,pub,None,None,4
+VALLEY WEST CORNER STORE / WDM,cafe,None,None,6
+VALLEY WEST CORNER STORE / WDM,bar,None,None,1
+VALLEY WEST CORNER STORE / WDM,None,None,supermarket,4
+VINE FOOD & LIQUOR,None,None,supermarket,1
+VINE FOOD & LIQUOR,cafe,None,None,2
+VINE FOOD & LIQUOR,pub,None,None,1
+VINE FOOD & LIQUOR,restaurant,None,None,4
+VOM FASS / DES MOINES,pub,None,None,2
+VOM FASS / DES MOINES,cafe,None,None,2
+VOM FASS / DES MOINES,restaurant,None,None,8
+VOM FASS / DES MOINES,None,None,supermarket,1
+VOM FASS / DES MOINES,bar,None,None,3
+WAL-MART 0892 / ANKENY,None,None,supermarket,1
+WAL-MART 0892 / ANKENY,cafe,None,None,4
+WAL-MART 0892 / ANKENY,pub,None,None,1
+WAL-MART 0892 / ANKENY,restaurant,None,None,15
+WAL-MART 1723 / DES MOINES,None,None,supermarket,2
+WAL-MART 1723 / DES MOINES,cafe,None,None,1
+WAL-MART 1723 / DES MOINES,restaurant,None,None,8
+WAL-MART 1764 / WINDSOR HEIGHTS,restaurant,None,None,5
+WAL-MART 1764 / WINDSOR HEIGHTS,restaurant,amusement_arcade,None,1
+WAL-MART 1764 / WINDSOR HEIGHTS,pub,None,None,1
+WAL-MART 1764 / WINDSOR HEIGHTS,None,None,supermarket,3
+WAL-MART 1764 / WINDSOR HEIGHTS,bar,None,None,2
+WAL-MART 1764 / WINDSOR HEIGHTS,cafe,None,None,2
+WAL-MART 2764 / ALTOONA,None,None,supermarket,1
+WAL-MART 2764 / ALTOONA,bar,None,None,1
+WAL-MART 2764 / ALTOONA,cafe,None,None,1
+WAL-MART 2764 / ALTOONA,pub,None,None,2
+WAL-MART 2764 / ALTOONA,restaurant,None,None,10
+WAL-MART 5748 / GRIMES,restaurant,None,vacant,1
+WAL-MART 5748 / GRIMES,restaurant,None,None,2
+WAL-MART 5748 / GRIMES,None,None,supermarket,4
+WAL-MART 5748 / GRIMES,cafe,None,None,2
+WALGREENS #00359 / DES MOINES,None,None,supermarket,1
+WALGREENS #00359 / DES MOINES,restaurant,None,None,1
+WALGREENS #03773 / URBANDALE,None,None,supermarket,1
+WALGREENS #03773 / URBANDALE,bar,None,None,3
+WALGREENS #03773 / URBANDALE,cafe,None,None,2
+WALGREENS #03773 / URBANDALE,pub,None,None,1
+WALGREENS #03773 / URBANDALE,restaurant,None,None,9
+WALGREENS #04714 / DES MOINES,restaurant,None,None,7
+WALGREENS #04714 / DES MOINES,pub,None,None,1
+WALGREENS #04714 / DES MOINES,None,None,supermarket,3
+WALGREENS #04714 / DES MOINES,cafe,None,None,3
+WALGREENS #04973 / URBANDALE,bar,None,None,6
+WALGREENS #04973 / URBANDALE,cafe,None,None,2
+WALGREENS #04973 / URBANDALE,pub,None,None,2
+WALGREENS #04973 / URBANDALE,restaurant,None,None,13
+WALGREENS #05060 / CLIVE,cafe,None,None,1
+WALGREENS #05060 / CLIVE,restaurant,None,None,12
+WALGREENS #05362 / DES MOINES,None,stadium,None,1
+WALGREENS #05362 / DES MOINES,None,None,supermarket,4
+WALGREENS #05362 / DES MOINES,bar,None,None,12
+WALGREENS #05362 / DES MOINES,cafe,None,None,3
+WALGREENS #05362 / DES MOINES,pub,None,None,1
+WALGREENS #05362 / DES MOINES,restaurant,None,None,16
+WALGREENS #05362 / DES MOINES,restaurant,None,coffee,1
+WALGREENS #05721 / DES MOINES,restaurant,None,None,4
+WALGREENS #05721 / DES MOINES,None,None,supermarket,1
+WALGREENS #05777 / DES MOINES,restaurant,None,None,2
+WALGREENS #05777 / DES MOINES,bar,None,None,2
+WALGREENS #05777 / DES MOINES,None,stadium,None,1
+WALGREENS #05777 / DES MOINES,None,None,supermarket,1
+WALGREENS #05852 / DES MOINES,None,None,supermarket,2
+WALGREENS #05852 / DES MOINES,None,stadium,None,2
+WALGREENS #05852 / DES MOINES,bar,None,None,1
+WALGREENS #05852 / DES MOINES,cafe,None,None,3
+WALGREENS #05852 / DES MOINES,pub,None,None,1
+WALGREENS #05852 / DES MOINES,restaurant,None,None,7
+WALGREENS #05944 / JOHNSTON,restaurant,None,None,6
+WALGREENS #05944 / JOHNSTON,pub,None,None,2
+WALGREENS #05944 / JOHNSTON,cafe,None,None,1
+WALGREENS #05944 / JOHNSTON,None,stadium,None,1
+WALGREENS #05944 / JOHNSTON,None,None,supermarket,2
+WALGREENS #05944 / JOHNSTON,bar,None,None,1
+WALGREENS #06623 / WEST DES MOINES,None,None,supermarket,1
+WALGREENS #06623 / WEST DES MOINES,bar,None,None,4
+WALGREENS #06623 / WEST DES MOINES,cafe,None,None,6
+WALGREENS #06623 / WEST DES MOINES,pub,None,None,5
+WALGREENS #06623 / WEST DES MOINES,restaurant,None,None,17
+WALGREENS #06623 / WEST DES MOINES,restaurant,amusement_arcade,None,1
+WALGREENS #06677 / WEST DES MOINES,pub,None,None,4
+WALGREENS #06677 / WEST DES MOINES,restaurant,None,None,10
+WALGREENS #06677 / WEST DES MOINES,cafe,None,None,4
+WALGREENS #06677 / WEST DES MOINES,None,None,supermarket,1
+WALGREENS #06677 / WEST DES MOINES,None,stadium,None,1
+WALGREENS #06677 / WEST DES MOINES,bar,None,None,4
+WALGREENS #06678 / WEST DES MOINES,None,None,supermarket,1
+WALGREENS #06678 / WEST DES MOINES,bar,None,None,2
+WALGREENS #06678 / WEST DES MOINES,cafe,None,None,2
+WALGREENS #06678 / WEST DES MOINES,pub,None,None,1
+WALGREENS #06678 / WEST DES MOINES,restaurant,None,None,7
+WALGREENS #07452 / DES MOINES,restaurant,None,None,11
+WALGREENS #07452 / DES MOINES,pub,None,None,3
+WALGREENS #07452 / DES MOINES,bar,None,None,1
+WALGREENS #07452 / DES MOINES,None,None,supermarket,1
+WALGREENS #07452 / DES MOINES,cafe,None,None,2
+WALGREENS #07453 / DES MOINES,None,None,supermarket,5
+WALGREENS #07453 / DES MOINES,bar,None,None,1
+WALGREENS #07453 / DES MOINES,restaurant,None,None,7
+WALGREENS #07454 / ANKENY,pub,None,None,2
+WALGREENS #07454 / ANKENY,restaurant,None,None,18
+WALGREENS #07454 / ANKENY,cafe,None,None,2
+WALGREENS #07454 / ANKENY,None,stadium,None,12
+WALGREENS #07454 / ANKENY,None,None,supermarket,2
+WALGREENS #07454 / ANKENY,bar,None,None,2
+WALGREENS #07833 / DES MOINES,None,None,supermarket,1
+WALGREENS #07833 / DES MOINES,bar,None,None,6
+WALGREENS #07833 / DES MOINES,cafe,None,None,4
+WALGREENS #07833 / DES MOINES,pub,None,None,2
+WALGREENS #07833 / DES MOINES,restaurant,None,None,13
+WALGREENS #07968 / DES MOINES,cafe,None,None,1
+WALGREENS #07968 / DES MOINES,None,None,supermarket,4
+WALGREENS #07968 / DES MOINES,restaurant,None,None,7
+WALGREENS #07996 / ANKENY,None,None,supermarket,1
+WALGREENS #07996 / ANKENY,cafe,None,None,3
+WALGREENS #07996 / ANKENY,restaurant,None,None,15
+WALGREENS #09791 / ALTOONA,None,None,supermarket,2
+WALGREENS #09791 / ALTOONA,restaurant,None,None,1
+WEST D LIQUORS,restaurant,None,None,6
+WEST D LIQUORS,cafe,None,None,2
+WEST D LIQUORS,pub,None,None,3
+WEST D LIQUORS,None,None,supermarket,1
+WEST D LIQUORS,bar,None,None,1
+WHOLE FOODS MARKET,None,None,supermarket,4
+WHOLE FOODS MARKET,bar,None,None,2
+WHOLE FOODS MARKET,cafe,None,None,5
+WHOLE FOODS MARKET,pub,None,None,5
+WHOLE FOODS MARKET,restaurant,None,None,18
+WINE AND SPIRITS GALLERY,pub,None,None,3
+WINE AND SPIRITS GALLERY,None,None,supermarket,1
+WINE AND SPIRITS GALLERY,bar,None,None,6
+WINE AND SPIRITS GALLERY,restaurant,None,None,8
+WORLD CLASS LIQUOR AND TOBACCO / BONDURANT,cafe,None,None,1
+WORLD CLASS LIQUOR AND TOBACCO / BONDURANT,pub,None,None,1
+WORLD LIQUOR & TOBACCO,pub,None,None,4
+WORLD LIQUOR & TOBACCO,cafe,None,None,2
+WORLD LIQUOR & TOBACCO,restaurant,None,None,18
+WORLD LIQUOR & TOBACCO,None,None,supermarket,2
+WORLD LIQUOR & TOBACCO,bar,None,None,9
+WORLD LIQUOR & TOBACCO,restaurant,amusement_arcade,None,1
+WORLD LIQUOR & TOBACCO + VAPORS / DES MOINES,None,None,supermarket,1
+WORLD LIQUOR & TOBACCO + VAPORS / DES MOINES,restaurant,None,None,4
+YESWAY STORE #1037/ GRIMES,restaurant,None,None,2
+YESWAY STORE #1037/ GRIMES,cafe,None,None,2
+YOUR PRIVATE BAR / URBANDALE,cafe,None,None,1
+YOUR PRIVATE BAR / URBANDALE,pub,None,None,1
+YOUR PRIVATE BAR / URBANDALE,bar,None,None,1
+YOUR PRIVATE BAR / URBANDALE,restaurant,None,None,5
